@@ -1,0 +1,2 @@
+base\icon\replicant-radio.inkatlas
+base\icon\replicant-radio.xbm
