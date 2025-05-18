@@ -1,0 +1,135 @@
+Character.irongut_ubiquitouschib_blackmarket:
+  $base: Character.vendorsxl_base
+  appearanceName: citizen__corporat_wa_corporat_wa_18
+  entityTemplatePath: base\characters\entities\corpo\corpo_civilianguard_wa.ent
+  affiliation: Factions.TheMox
+  displayName: LocKey#65486
+  holocallInitializerPath: base\workspots\common\ledge\generic__sit_ledge__smoke__01.workspot
+  bossHealthBarThresholds: [-1085.656, 310.090, 5.6132, 0, 0, -0.4112, -0.9116]
+    #Position data           x,   y,   z, 
+    #and Rotation data (quaternions)        i,   j,   k ,  r
+  items:
+    # Knives 6
+    - Items.Preset_Neurotoxin_Knife_Iconic    # BLUE FANG (NEUROTOXIN KNIFE)
+    - Items.Preset_Butchers_Knife_Iconic      # BUTCHER'S CLEAVER
+    - Items.Preset_Knife_Kurtz_1              # FANG
+    - Items.Preset_Punk_Knife_Iconic          # HEADHUNTER (PUNKNIFE)
+    - Items.Preset_Tanto_Saburo               # NEHAN
+    - Items.Preset_Knife_Stinger              # STINGER
+    # Axes 2
+    - Items.Preset_VB_Axe                     # AGAOU
+    - Items.Preset_Fanged_Axe_Collectible     # CLAW X-MOD2
+    # Blades 11
+    - Items.Preset_Chainsword_Legendary       # CUT-O-MATIC X-MOD2
+    - Items.Preset_Katana_GoG                 # BLACK UNICORN
+    - Items.Preset_Katana_Wakako              # BYAKKO
+    - Items.Preset_Katana_Cocktail            # COCKTAIL STICK
+    - Items.Preset_Katana_E3                  # ERRATA
+    - Items.Preset_Katana_Takemura            # JINCHU-MARU
+    - Items.Preset_Katana_Saburo              # SATORI
+    - Items.Preset_Katana_Surgeon             # SCALPEL
+    - Items.Preset_Katana_Hiromi              # TSUMETOGI
+    - Items.Preset_Machete_Borg_AirDrop       # VOLKODAV
+    - Items.Preset_Sword_Witcher              # GWYNBLEIDD
+    # 1-H Clubs 6
+    - Items.Preset_Dildo_SexShop              # BFC 9000
+    - Items.Preset_Cane_Fingers               # COTTONMOUTH
+    - Items.Preset_Crowbar_Bunker             # CROWBAR
+    - Items.Preset_Dildo_Stout                # SIR JOHN PHALLUSTIFF
+    - Items.Preset_Baton_Tinker_Bell          # TINKER BELL
+    - Items.Preset_Baton_Murphy               # MURPHY'S LAW
+    # 2-H Clubs 3
+    - Items.Preset_Baseball_Bat_Malina        # BABY BOOMER
+    - Items.Preset_Baseball_Bat_Legendary     # BASEBALL BAT X-MOD2
+    - Items.Preset_Baseball_Bat_Denny         # GOLD PLATED BASEBALL BAT
+    # Hammers 2
+    - Items.Preset_Shovel_Caretaker           # CARETAKER'S SPADE
+    - Items.w_melee_boss_hammer               # SASQUATCH'S HAMMER
+    # Mods
+    - Items.ChimeraMeleeMod                   # SEVERANCE  ( ICONIC )
+    - Items.ChimeraPowerMod                   # FIRECRACKER  ( ICONIC )
+    - Items.ChimeraSmartMod                   # HACKATOMY  ( ICONIC )
+    - Items.ChimeraTechMod                    # WALLPUNCHER  ( ICONIC )
+    # Consumables
+    - Items.Blackmarket_HealthBooster         # ASSKICK
+    - Items.Blackmarket_HealthBooster
+    - Items.Blackmarket_HealthBooster
+    - Items.Blackmarket_HealthBooster
+    - Items.Blackmarket_HealthBooster
+    - Items.BlackLaceV0                       # BLACK LACE MK.1
+    - Items.BlackLaceV0
+    - Items.BlackLaceV0
+    - Items.BlackLaceV0
+    - Items.BlackLaceV0
+    - Items.BlackLaceV1                       # BLACK LACE MK.2
+    - Items.BlackLaceV1
+    - Items.BlackLaceV1
+    - Items.BlackLaceV1
+    - Items.BlackLaceV1
+    - Items.NetrunnerFood1                    # BZZZZT! ENERGY DRINK (RECALLED)
+    - Items.NetrunnerFood1
+    - Items.NetrunnerFood1
+    - Items.NetrunnerFood1
+    - Items.NetrunnerFood1
+    - Items.HealthFood1                       # COMRADE KOLYA'S PREMIUM BLACK CAVIAR
+    - Items.HealthFood1
+    - Items.HealthFood1
+    - Items.HealthFood1
+    - Items.HealthFood1
+    - Items.CombatFood2                       # CREATINE-LOADED PROTEIN LOG
+    - Items.CombatFood2
+    - Items.CombatFood2
+    - Items.CombatFood2
+    - Items.CombatFood2
+    - Items.CombatFood1                       # DEVILDICK PEPPER CHIPS
+    - Items.CombatFood1
+    - Items.CombatFood1
+    - Items.CombatFood1
+    - Items.CombatFood1
+    - Items.CombatFood3                       # DOLPHIN JERKY
+    - Items.CombatFood3
+    - Items.CombatFood3
+    - Items.CombatFood3
+    - Items.CombatFood3
+    - Items.StealthFood1                      # EXOTIC FLORA AND FUNGI MYSTERY BAG
+    - Items.StealthFood1
+    - Items.StealthFood1
+    - Items.StealthFood1
+    - Items.StealthFood1
+    - Items.HealthFood3                       # HEFTY CHEF FETTUCCINE ALFREDO XXL (DISCONTINUED)
+    - Items.HealthFood3
+    - Items.HealthFood3
+    - Items.HealthFood3
+    - Items.HealthFood3
+    - Items.CarFood1                          # HOT RODDY'S ROAD-READY COFFEE (RECALLED)
+    - Items.CarFood1
+    - Items.CarFood1
+    - Items.CarFood1
+    - Items.CarFood1
+    - Items.Blackmarket_StaminaBooster			  # JELLYTRICITY
+    - Items.Blackmarket_StaminaBooster
+    - Items.Blackmarket_StaminaBooster
+    - Items.Blackmarket_StaminaBooster
+    - Items.Blackmarket_StaminaBooster
+    - Items.HealthFood2                       # MILITECH MRE (EXPIRED)
+    - Items.HealthFood2
+    - Items.HealthFood2
+    - Items.HealthFood2
+    - Items.HealthFood2
+    - Items.Blackmarket_CarryCapacityBooster  # OL' DONKEY
+    - Items.Blackmarket_CarryCapacityBooster
+    - Items.Blackmarket_CarryCapacityBooster
+    - Items.Blackmarket_CarryCapacityBooster
+    - Items.Blackmarket_CarryCapacityBooster
+    - Items.NetrunnerFood2                    # PHISH & CHIPS
+    - Items.NetrunnerFood2
+    - Items.NetrunnerFood2
+    - Items.NetrunnerFood2
+    - Items.NetrunnerFood2
+    - Items.Blackmarket_MemoryBooster         # RAM NUGS
+    - Items.Blackmarket_MemoryBooster
+    - Items.Blackmarket_MemoryBooster
+    - Items.Blackmarket_MemoryBooster
+    - Items.Blackmarket_MemoryBooster
+  vendorID: Vendors.vendorxl_custom
+  forcedTBHZOffset: 5
