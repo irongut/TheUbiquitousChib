@@ -1,0 +1,96 @@
+Mod Page: The Ubiquitous Chib - Heywood
+
+Category = Vendors
+Name = The Ubiquitous Chib - Heywood
+Language = n/a
+Version = 1.0.0
+Author = Irongut
+Overview = Adds a vendor to the alley behind The Time Machine in Heywood who sells all melee weapons and relevant mods.
+Description = 
+Are you a Heywood salaryman shuffling between the office and your conapt in Wellsprings every day?
+Does your boss disrespect you because you don't have a ceremonial sword or Tanto?
+Are you a major league mercenary late for a meeting at Embers but you forgot your Neurotoxin knife?
+Do you desire the fear and respect on the street that comes with a Chainsword?
+
+Then come on down to TUC Heywood, behind The Time Machine where our expert staff will help you find the melee weapon of your dreams!
+Our local contacts deliver new stock all the time so check back regularly! (1 hour refresh)
+
+Also Available:
+The Ubiquitous Chib - Watson
+The Ubiquitous Chib - Dogtown
+The Ubiquitous Chib - North Badlands
+
+
+Files
+Upcoming Merc
+Level appropriate melee weapons like a vanilla vendor with Rare and Epic Blade, Melee, Thrown and Blunt mods. Designed for use from the start of the game to respect gameplay balance.
+
+Legend of NC
+Legendary (Tier 5) melee weapons and mods. Designed for use at level 60 or if you don't care about gameplay balance.
+
+INSTALL ONE.
+Both versions overwrite each other so you can swap between them as you progress through the game if you want to.
+
+Requirements
+ArchiveXL
+Codeware
+RED4ext
+redscript
+TweakXL
+VendorsXL
+
+How to Install
+Install all the requirements.
+Download EITHER the Upcoming Merc (level appropriate) OR the Legend of NC (all legendary) archive from the files section.
+Unpack the zip file into the "Cyberpunk 2077" folder so that the "TheUbiquitousChib_Heywood.yaml" file ends up in the "Cyberpunk 2077\r6\tweaks" folder.
+
+How to Uninstall
+Delete the "TheUbiquitousChib_Heywood.yaml" file from the "Cyberpunk 2077\r6\tweaks" folder.
+
+
+Header Image - Max file size 750kb, JPG, PNG or GIF - size?
+Mod Images - 1920x1080 (16:9), max file size 8MB, JPG, PNG or GIF
+Changelog
+Permissions
+Requirements = 
+	ArchiveXL - https://www.nexusmods.com/cyberpunk2077/mods/4198
+	Codeware - https://www.nexusmods.com/cyberpunk2077/mods/7780
+	RED4ext - https://www.nexusmods.com/cyberpunk2077/mods/2380
+	redscript - https://www.nexusmods.com/cyberpunk2077/mods/1511
+	TweakXL - https://www.nexusmods.com/cyberpunk2077/mods/4197
+	VendorsXL - https://www.nexusmods.com/cyberpunk2077/mods/19679
+Files:
+	Name
+	Version
+	Category
+	Description
+
+
+Raw Images:
+Store - Weapons	1		= use Dogtown / Badlands
+Store - Weapons	2		= use Dogtown / Badlands
+Store - Mods			= use Dogtown / Badlands
+Store - Weapons L 1		= use Dogtown / Badlands
+Store - Weapons L 2		= use Dogtown / Badlands
+Store - Mods L			= use Dogtown / Badlands
+Vendor with prompt		= done
+Map						= done
+Vendor Portrait			= done
+Vendor from distance	= done
+Vendor with Becca		= done
+
+
+Final Images:
+Header Image			= done
+Vendor Portrait			= done
+Vendor Prompt / Map		= done
+Store					= use Badlands
+Store L					= use Badlands
+Vendor from distance	= done
+Vendor with Becca		= done
+
+
+
+The Ubiquitous Chib - Heywood
+TheUbiquitousChib_Heywood
+https://www.nexusmods.com/cyberpunk2077/mods/21088

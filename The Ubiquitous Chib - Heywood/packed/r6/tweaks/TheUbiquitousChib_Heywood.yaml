@@ -1,0 +1,65 @@
+Character.irongut_ubiquitouschib_heywood:
+  $base: Character.vendorsxl_base
+  appearanceName: gang__cyberpunk_ma_merc_solo__lvl1_01
+  entityTemplatePath: base\characters\entities\gang\gang__cyberpunk_ma.ent
+  affiliation: Factions.TheMox
+  displayName: LocKey#67589
+  holocallInitializerPath: base\workspots\common\ledge\generic__sit_ledge__smoke__01.workspot
+  bossHealthBarThresholds: [-1805.2025, -576.5555, 8.3, 0, 0, 0.3764, 0.9286]
+    #Position data           x,   y,   z, 
+    #and Rotation data (quaternions)        i,   j,   k ,  r
+  items:
+    # Knives
+    - Items.Preset_Chefs_Knife_Default
+    - Items.Preset_Knife_Military
+    - Items.Preset_Neurotoxin_Knife_Neon
+    - Items.Preset_Punk_Knife_Neon
+    - Items.Preset_Tanto_Default
+    # Axes
+    - Items.Preset_Fanged_Axe_Neon
+    - Items.Preset_Tomahawk_Default
+    # Blades
+    - Items.Preset_Chainsword_Neon
+    - Items.Preset_Katana_Neon_03
+    - Items.Preset_Kukri_Default
+    - Items.Preset_Machete_Default
+    - Items.Preset_Machete_Borg_Pimp
+    # 1-H Clubs
+    - Items.Preset_Crowbar_Default
+    - Items.Preset_Baton_Alpha
+    - Items.Preset_Baton_Beta
+    - Items.Preset_Baton_Gamma
+    - Items.Preset_Iron_Pipe_Default
+    - Items.Preset_Tire_Iron_Default
+    # 2-H Clubs
+    - Items.Preset_Baseball_Bat_Mox
+    - Items.Preset_Kanabo_Default
+    # Hammers
+    - Items.Preset_Hammer_Default
+    # Mods - Blade
+    - Items.BladeMod1_Rare
+    - Items.BladeMod3_Rare
+    - Items.BladeMod1_Epic
+    - Items.BladeMod3_Epic
+    # Mods - Melee
+    - Items.MeleeMod1_Rare
+    - Items.MeleeMod2_Rare
+    - Items.MeleeMod3_Rare
+    - Items.MeleeMod1_Epic
+    - Items.MeleeMod2_Epic
+    - Items.MeleeMod3_Epic
+    # Mods - Thrown
+    - Items.ThrowMod1_Rare
+    - Items.ThrowMod2_Rare
+    - Items.ThrowMod3_Rare
+    - Items.ThrowMod1_Epic
+    - Items.ThrowMod3_Epic
+    - Items.ThrowMod2_Epic
+    # Mods - Blunt
+    - Items.BluntMod1_Rare
+    - Items.BluntMod2_Rare
+    - Items.BluntMod1_Epic
+    - Items.BluntMod2_Epic
+    - Items.BluntMod3_Epic
+  vendorID: Vendors.vendorxl_custom
+  forcedTBHZOffset: 5

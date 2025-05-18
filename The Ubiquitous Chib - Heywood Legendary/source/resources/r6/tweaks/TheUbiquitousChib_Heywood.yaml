@@ -1,0 +1,56 @@
+Character.irongut_ubiquitouschib_heywood:
+  $base: Character.vendorsxl_base
+  appearanceName: gang__cyberpunk_ma_merc_solo__lvl1_01
+  entityTemplatePath: base\characters\entities\gang\gang__cyberpunk_ma.ent
+  affiliation: Factions.TheMox
+  displayName: LocKey#67589
+  holocallInitializerPath: base\workspots\common\ledge\generic__sit_ledge__smoke__01.workspot
+  bossHealthBarThresholds: [-1805.2025, -576.5555, 8.3, 0, 0, 0.3764, 0.9286]
+    #Position data           x,   y,   z, 
+    #and Rotation data (quaternions)        i,   j,   k ,  r
+  items:
+    # Knives
+    - Items.Craftable_Legendary_Chefs_Knife
+    - Items.Craftable_Legendary_Knife
+    - Items.Craftable_Legendary_Neurotoxin_Knife
+    - Items.Craftable_Legendary_Punk_Knife
+    - Items.Craftable_Legendary_Tanto
+    # Axes
+    - Items.Craftable_Legendary_Fanged_Axe
+    - Items.Craftable_Legendary_Tomahawk
+    # Blades
+    - Items.Craftable_Legendary_Chainsword
+    - Items.Craftable_Legendary_Katana_Military
+    - Items.Craftable_Legendary_Kukri
+    - Items.Craftable_Legendary_Machete
+    - Items.Craftable_Legendary_Machete_Borg
+    # 1-H Clubs
+    - Items.Craftable_Legendary_Crowbar
+    - Items.Craftable_Legendary_Baton_Alpha
+    - Items.Craftable_Legendary_Baton_Beta
+    - Items.Craftable_Legendary_Baton_Gamma
+    - Items.Craftable_Legendary_Iron_Pipe
+    - Items.Craftable_Legendary_Tire_Iron
+    # 2-H Clubs
+    - Items.Craftable_Legendary_Bat
+    - Items.Craftable_Legendary_Kanabo
+    # Hammers
+    - Items.Craftable_Legendary_Hammer
+    # Mods - Blade
+    - Items.BladeMod1_Legendary
+    - Items.BladeMod2_Legendary
+    - Items.BladeMod3_Legendary
+    # Mods - Melee
+    - Items.MeleeMod1_Legendary
+    - Items.MeleeMod2_Legendary
+    - Items.MeleeMod3_Legendary
+    # Mods - Thrown
+    - Items.ThrowMod1_Legendary
+    - Items.ThrowMod2_Legendary
+    - Items.ThrowMod3_Legendary
+    # Mods - Blunt
+    - Items.BluntMod1_Legendary
+    - Items.BluntMod2_Legendary
+    - Items.BluntMod3_Legendary
+  vendorID: Vendors.vendorxl_custom
+  forcedTBHZOffset: 5
