@@ -1,0 +1,93 @@
+Character.irongut_ubiquitouschib_santodomingo:
+  $base: Character.vendorsxl_base
+  appearanceName: corpo__generic_ma_shotgun_01
+  entityTemplatePath: base\characters\entities\corpo\corpo__generic_ma.ent
+  affiliation: Factions.TheMox
+  displayName: LocKey#67527
+  holocallInitializerPath: base\workspots\common\wall\generic__stand_wall_lean_back_cigarette__smoke__01.workspot
+  bossHealthBarThresholds: [463.7592, -1653.528, 10.621, 0, 0, 0.057, -0.9983]
+    #Position data           x,   y,   z, 
+    #and Rotation data (quaternions)        i,   j,   k ,  r
+  items:
+    # Knives
+    - Items.Preset_Chefs_Knife_Default
+    - Items.Preset_Knife_Military
+    - Items.Preset_Neurotoxin_Knife_Neon
+    - Items.Preset_Punk_Knife_Neon
+    - Items.Preset_Tanto_Default
+    # Axes
+    - Items.Preset_Fanged_Axe_Neon
+    - Items.Preset_Tomahawk_Default
+    # Blades
+    - Items.Preset_Chainsword_Neon
+    - Items.Preset_Katana_Neon_03
+    - Items.Preset_Kukri_Default
+    - Items.Preset_Machete_Default
+    - Items.Preset_Machete_Borg_Pimp
+    # 1-H Clubs
+    - Items.Preset_Crowbar_Default
+    - Items.Preset_Baton_Alpha
+    - Items.Preset_Baton_Beta
+    - Items.Preset_Baton_Gamma
+    - Items.Preset_Iron_Pipe_Default
+    - Items.Preset_Tire_Iron_Default
+    # 2-H Clubs
+    - Items.Preset_Baseball_Bat_Mox
+    - Items.Preset_Kanabo_Default
+    # Hammers
+    - Items.Preset_Hammer_Default
+    # Mods - Blade
+    - Items.BladeMod1_Epic
+    - Items.BladeMod3_Epic
+    - Items.BladeMod1_Legendary
+    - Items.BladeMod2_Legendary
+    - Items.BladeMod3_Legendary
+    # Mods - Melee
+    - Items.MeleeMod1_Epic
+    - Items.MeleeMod2_Epic
+    - Items.MeleeMod3_Epic
+    - Items.MeleeMod1_Legendary
+    - Items.MeleeMod2_Legendary
+    - Items.MeleeMod3_Legendary
+    # Mods - Thrown
+    - Items.ThrowMod1_Epic
+    - Items.ThrowMod3_Epic
+    - Items.ThrowMod2_Epic
+    - Items.ThrowMod1_Legendary
+    - Items.ThrowMod2_Legendary
+    - Items.ThrowMod3_Legendary
+    # Mods - Blunt
+    - Items.BluntMod1_Epic
+    - Items.BluntMod2_Epic
+    - Items.BluntMod3_Epic
+    - Items.BluntMod1_Legendary
+    - Items.BluntMod2_Legendary
+    - Items.BluntMod3_Legendary
+    # Consumables
+    - Items.CarryCapacityBooster
+    - Items.CarryCapacityBooster
+    - Items.CarryCapacityBooster
+    - Items.CarryCapacityBooster
+    - Items.CarryCapacityBooster
+    - Items.HealthBooster
+    - Items.HealthBooster
+    - Items.HealthBooster
+    - Items.HealthBooster
+    - Items.HealthBooster
+    - Items.OxyBooster
+    - Items.OxyBooster
+    - Items.OxyBooster
+    - Items.OxyBooster
+    - Items.OxyBooster
+    - Items.MemoryBooster
+    - Items.MemoryBooster
+    - Items.MemoryBooster
+    - Items.MemoryBooster
+    - Items.MemoryBooster
+    - Items.StaminaBooster
+    - Items.StaminaBooster
+    - Items.StaminaBooster
+    - Items.StaminaBooster
+    - Items.StaminaBooster
+  vendorID: Vendors.vendorxl_custom
+  forcedTBHZOffset: 5
