@@ -1,0 +1,46 @@
+Character.irongut_ubiquitouschib_watson:
+  $base: Character.vendorsxl_base
+  appearanceName: service__sexworker_wa_prostitute_poor_10
+  entityTemplatePath: base\characters\entities\service\service__sexworker_wa.ent
+  affiliation: Factions.TheMox
+  displayName: LocKey#66867 # Emma
+  holocallInitializerPath: base\workspots\common\ground\generic__sit_ground_cigarette__smoke__01.workspot
+  bossHealthBarThresholds: [-1485.7056, 2214.106, 18.18528, 0, 0, 0.8931971, 0.44966546]
+    #Position data:               x,  y,  z, 
+    #Rotation data (quaternions):             i,  j,  k,  r
+  items:
+    # Knives
+    - Items.Craftable_Legendary_Chefs_Knife
+    - Items.Craftable_Legendary_Knife
+    - Items.Craftable_Legendary_Neurotoxin_Knife
+    - Items.Craftable_Legendary_Punk_Knife
+    - Items.Craftable_Legendary_Tanto
+    # Axes
+    - Items.Craftable_Legendary_Fanged_Axe
+    - Items.Craftable_Legendary_Tomahawk
+    # Blades
+    - Items.Craftable_Legendary_Chainsword
+    - Items.Proficiency_Craftable_Legendary_Katana
+    - Items.Craftable_Legendary_Kukri
+    - Items.Craftable_Legendary_Machete
+    - Items.Craftable_Legendary_Machete_Borg
+    # Hammers
+    - Items.Craftable_Legendary_Hammer
+    # Mods - Blade
+    - Items.BladeMod1_Legendary
+    - Items.BladeMod2_Legendary
+    - Items.BladeMod3_Legendary
+    # Mods - Melee
+    - Items.MeleeMod1_Legendary
+    - Items.MeleeMod2_Legendary
+    - Items.MeleeMod3_Legendary
+    # Mods - Thrown
+    - Items.ThrowMod1_Legendary
+    - Items.ThrowMod2_Legendary
+    - Items.ThrowMod3_Legendary
+    # Mods - Blunt
+    - Items.BluntMod1_Legendary
+    - Items.BluntMod2_Legendary
+    - Items.BluntMod3_Legendary
+  vendorID: Vendors.vendorxl_custom
+  forcedTBHZOffset: 5

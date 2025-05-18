@@ -1,0 +1,81 @@
+Mod Page: The Ubiquitous Chib - Watson
+
+Category = Vendors
+Name = The Ubiquitous Chib - Watson
+Language = n/a
+Version = 1.0.0
+Author = Irongut
+Overview = Adds a melee weapon vendor to Watson who sells everything Coach Fred is missing, including mods.
+Description = 
+	Are you a Watson resident, unable to buy a new knife for your kitchen because of an NCPD lockdown?
+	Do you prefer the elegance of a Tanto over a silenced pistol?
+	Are you bored of Coach Fred's tired old selection of clubs and his attempts to make you into a boxer?
+	Do you long for a Katana, Punk Knife or even... a Hammer?
+
+	Then come on down to the Northside Motel on Martin Street where our sales person has the melee weapon of your dreams!
+	New stock is delivered all the time so check back regularly! (1 hour refresh)
+
+	Files
+	Upcoming Merc - Level appropriate melee weapons like a vanilla vendor with Uncommon and Rare Blade, Melee, Thrown & Blunt mods. Designed for use from the start of the game to respect gameplay balance.
+	Legend of NC - Legendary (Tier 5) melee weapons and Blade, Melee, Thrown & Blunt mods. Designed for use after level 60 or if you don't care about gameplay balance.
+
+	INSTALL ONE.
+	Both versions overwrite each other so you can swap between them as you progress through the game if you want to.
+
+	Coming Soon: The Ubiquitous Chib - Dogtown!
+
+	Requirements
+	ArchiveXL
+	Codeware
+	RED4ext
+	redscript
+	TweakXL
+	VendorsXL
+
+	How to Install
+	Install all the requirements.
+	Download EITHER the "Upcoming Merc" (level appropriate) OR the "Legend of NC" (all legendary) archive from the files section.
+	Unpack the zip file into the "Cyberpunk 2077" folder so that the "TheUbiquitousChib_Watson.yaml" file ends up in the "Cyberpunk 2077\r6\tweaks" folder.
+
+	How to Uninstall
+	Delete the "TheUbiquitousChib_Watson.yaml" file from the "Cyberpunk 2077\r6\tweaks" folder.
+
+
+Header Image - Max file size 750kb, JPG, PNG or GIF - size?
+Mod Images - 1920x1080 (16:9), max file size 8MB, JPG, PNG or GIF
+Changelog
+Permissions
+Requirements = 
+	ArchiveXL - https://www.nexusmods.com/cyberpunk2077/mods/4198
+	Codeware - https://www.nexusmods.com/cyberpunk2077/mods/7780
+	RED4ext - https://www.nexusmods.com/cyberpunk2077/mods/2380
+	redscript - https://www.nexusmods.com/cyberpunk2077/mods/1511
+	TweakXL - https://www.nexusmods.com/cyberpunk2077/mods/4197
+	VendorsXL - https://www.nexusmods.com/cyberpunk2077/mods/19679
+Files:
+	Name
+	Version
+	Category
+	Description
+
+
+Raw Images:
+Store - Weapons			= done
+Store - Mods			= done
+Store - Weapons Legend	= done
+Store - Mods Legend		= done
+Vendor with prompt		= done
+Map						= done
+Vendor Portrait			= done
+Vendor from distance	= done
+Vendor with Becca		= done
+
+
+Final Images:
+Header Image			= done
+Vendor Portrait			= done
+Vendor Prompt / Map		= done
+Store					= done
+Store - Legendary		= done
+Vendor from distance	= done
+Vendor with Becca		= done

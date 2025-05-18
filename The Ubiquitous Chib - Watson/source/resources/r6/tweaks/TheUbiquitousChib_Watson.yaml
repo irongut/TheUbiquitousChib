@@ -1,0 +1,53 @@
+Character.irongut_ubiquitouschib_watson:
+  $base: Character.vendorsxl_base
+  appearanceName: service__sexworker_wa_prostitute_poor_10
+  entityTemplatePath: base\characters\entities\service\service__sexworker_wa.ent
+  affiliation: Factions.TheMox
+  displayName: LocKey#66867 # Emma
+  holocallInitializerPath: base\workspots\common\ground\generic__sit_ground_cigarette__smoke__01.workspot
+  bossHealthBarThresholds: [-1485.7056, 2214.106, 18.18528, 0, 0, 0.8931971, 0.44966546]
+    #Position data:               x,  y,  z, 
+    #Rotation data (quaternions):             i,  j,  k,  r
+  items:
+    # Knives
+    - Items.Preset_Chefs_Knife_Default
+    - Items.Preset_Knife_Military
+    - Items.Preset_Neurotoxin_Knife_Neon
+    - Items.Preset_Punk_Knife_Neon
+    - Items.Preset_Tanto_Default
+    # Axes
+    - Items.Preset_Fanged_Axe_Neon
+    - Items.Preset_Tomahawk_Default
+    # Blades
+    - Items.Preset_Chainsword_Neon
+    - Items.Preset_Katana_Neon_03
+    - Items.Preset_Kukri_Default
+    - Items.Preset_Machete_Default
+    - Items.Preset_Machete_Borg_Pimp
+    # Hammers
+    - Items.Preset_Hammer_Default
+    # Mods - Blade
+    - Items.BladeMod1_Uncommon
+    - Items.BladeMod3_Uncommon
+    - Items.BladeMod1_Rare
+    - Items.BladeMod3_Rare
+    # Mods - Melee
+    - Items.MeleeMod1_Uncommon
+    - Items.MeleeMod2_Uncommon
+    - Items.MeleeMod3_Uncommon
+    - Items.MeleeMod1_Rare
+    - Items.MeleeMod2_Rare
+    - Items.MeleeMod3_Rare
+    # Mods - Thrown
+    - Items.ThrowMod1_Uncommon
+    - Items.ThrowMod3_Uncommon
+    - Items.ThrowMod1_Rare
+    - Items.ThrowMod2_Rare
+    - Items.ThrowMod3_Rare
+    # Mods - Blunt
+    - Items.BluntMod1_Uncommon
+    - Items.BluntMod2_Uncommon
+    - Items.BluntMod1_Rare
+    - Items.BluntMod2_Rare
+  vendorID: Vendors.vendorxl_custom
+  forcedTBHZOffset: 5
