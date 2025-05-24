@@ -3,11 +3,9 @@ Character.irongut_ubiquitouschib_blackmarket:
   appearanceName: citizen__corporat_wa_corporat_wa_18
   entityTemplatePath: base\characters\entities\corpo\corpo_civilianguard_wa.ent
   affiliation: Factions.TheMox
-  displayName: LocKey#65486
+  displayName: LocKey#66827
   holocallInitializerPath: base\workspots\common\ledge\generic__sit_ledge__smoke__01.workspot
   bossHealthBarThresholds: [-1085.656, 310.090, 5.6132, 0, 0, -0.4112, -0.9116]
-    #Position data           x,   y,   z, 
-    #and Rotation data (quaternions)        i,   j,   k ,  r
   items:
     # Knives 6
     - Items.Preset_Neurotoxin_Knife_Iconic    # BLUE FANG (NEUROTOXIN KNIFE)
