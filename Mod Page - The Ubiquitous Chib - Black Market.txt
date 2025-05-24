@@ -1,0 +1,96 @@
+Mod Page: The Ubiquitous Chib - Black Market
+
+Category = Vendors
+Name = The Ubiquitous Chib - Black Market
+Language = n/a
+Version = 1.0.0
+Author = Irongut
+Overview = Adds a vendor to Lincoln Dock in City Center who sells all iconic melee weapons, iconic mods and recalled, expired or otherwise illegal consumables. Also adds lights, decoration and NPCs to this unused area.
+Description = 
+Are you a collector of rare weapons of exquisite beauty and deadly grace?
+Or a Legend of The Afterlife looking for the perfect steel to complement your style?
+Do you crave the taste of Comrade Kolya's Premium Black Caviar with Devildick Pepper Chips?
+Or long to open a can of AssKick and beat down your enemies with a Gold-Plated Baseball bat?
+
+Then come on down to Lincoln Dock on Republic Way where our expert staff will help you find the melee weapon of your dreams!
+Our international contacts deliver new stock all the time so check back regularly! (1 hour refresh)
+
+This is the final mod in my Ubiquitous Chib series and includes several world edits as well as the vendor. This side of Lincoln Dock was unused and needed lights and a little work to bring it to life. The mod adds street lights, a laptop, a radio, several cases and bags and four dock workers. Keep an eye open for other customers, you may recognise a face or two!
+
+Customers visit at: [spoiler]01:00, 06:00, 15:00, 20:00[/spoiler]
+
+Also Available:
+The Ubiquitous Chib - Watson
+The Ubiquitous Chib - Dogtown
+The Ubiquitous Chib - North Badlands
+The Ubiquitous Chib - Heywood
+The Ubiquitous Chib - Westbrook
+The Ubiquitous Chib - Santo Domingo
+H10 Food Vendor
+
+Performance & Compatibility
+
+The mod adds 10 meshes, 5 devices and up to 5 NPCs as well as the vendor to an unused area. Since these are native edits the performance impact is minimal and it should be compatible with anything that doesn't change the same area. The other customers use their default appearances so if you've modded them that should work too.
+
+Phantom Liberty
+
+If you don't have Phantom Liberty then items from the expansion will not appear in the shop, including some weapons, consumables and the iconic mods, but the vendor will still work. I can't test without the expansion so please let me know if anything doesn't work and I'll try to fix it.
+
+Requirements
+ArchiveXL
+Codeware
+RED4ext
+redscript
+TweakXL
+VendorsXL
+
+How to Install
+Install all the requirements.
+Download the archive from the files section.
+Unpack the zip file into the "Cyberpunk 2077" folder so that the files "TheUbiquitousChib_BlackMarket.archive" and "theubiquitouschib_blackmarket.xl" end up in the "Cyberpunk 2077\archive\pc\mod" folder and the "TheUbiquitousChib_BlackMarket.yaml" file ends up in the "Cyberpunk 2077\r6\tweaks" folder.
+
+How to Uninstall
+From the "Cyberpunk 2077\archive\pc\mod" folder delete the files "TheUbiquitousChib_BlackMarket.archive" and "theubiquitouschib_blackmarket.xl".
+From the "Cyberpunk 2077\r6\tweaks" folder delete the file "TheUbiquitousChib_BlackMarket.yaml".
+
+Thanks
+
+World edits and NPCs were added using the amazing World Builder by keanuWheeze / NexusGuy999. Many thanks to him, deceptious, psiberx and the authors of all the required mods without whom this would not be possible.
+
+
+
+Header Image - 1920x548, max file size 750kb, JPG, PNG or GIF
+Mod Images - 1920x1080 (16:9), max file size 8MB, JPG, PNG or GIF
+
+Requirements = 
+	ArchiveXL - https://www.nexusmods.com/cyberpunk2077/mods/4198
+	Codeware - https://www.nexusmods.com/cyberpunk2077/mods/7780
+	RED4ext - https://www.nexusmods.com/cyberpunk2077/mods/2380
+	redscript - https://www.nexusmods.com/cyberpunk2077/mods/1511
+	TweakXL - https://www.nexusmods.com/cyberpunk2077/mods/4197
+	VendorsXL - https://www.nexusmods.com/cyberpunk2077/mods/19679
+
+
+Raw Images:
+Vendor with prompt		= 
+Map						= 
+Store					= 
+Store L 				= 
+Vendor Portrait			= 
+Vendor from distance	= 
+Vendor with Becca		= 
+
+
+Final Images:
+Header Image			= 
+Vendor Portrait			= 
+Vendor Prompt / Map		= 
+Store					= 
+Store L					= 
+Vendor from distance	= 
+Vendor with Becca		= 
+
+
+The Ubiquitous Chib - Black Market
+TheUbiquitousChib_BlackMarket
+
