@@ -10,7 +10,7 @@ Description =
 Are you a collector of rare weapons of exquisite beauty and deadly grace?
 Or a Legend of The Afterlife looking for the perfect steel to complement your style?
 Do you crave the taste of Comrade Kolya's Premium Black Caviar with Devildick Pepper Chips?
-Or long to open a can of AssKick and beat down your enemies with a Gold-Plated Baseball bat?
+Or long to open a can of AssKick on your enemies with a Gold-Plated Baseball bat?
 
 Then come on down to Lincoln Dock on Republic Way where our expert staff will help you find the melee weapon of your dreams!
 Our international contacts deliver new stock all the time so check back regularly! (1 hour refresh)
@@ -72,23 +72,30 @@ Requirements =
 
 
 Raw Images:
-Vendor with prompt		= 
-Map						= 
-Store					= 
-Store L 				= 
-Vendor Portrait			= 
-Vendor from distance	= 
-Vendor with Becca		= 
+Vendor with prompt		= done
+Map						= done
+Store					= done
+Vendor Portrait			= done
+Vendor from distance	= done
+Vendor with Becca		= done
 
 
 Final Images:
-Header Image			= 
-Vendor Portrait			= 
-Vendor Prompt / Map		= 
-Store					= 
-Store L					= 
-Vendor from distance	= 
-Vendor with Becca		= 
+Header Image			= done
+Vendor Portrait			= done
+Vendor Prompt / Map		= done
+Store					= done
+Vendor from distance	= done
+Vendor with Becca		= done
+
+
+Order:
+1. portrait-night
+2. prompt-map
+3. store
+4. distance-night
+5. distance-day
+6. becca
 
 
 The Ubiquitous Chib - Black Market
