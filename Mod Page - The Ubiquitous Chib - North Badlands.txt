@@ -12,8 +12,7 @@ Do you prefer a quiet trailer in Red Peaks or Rocky Ridge Plains?
 Have you found an abandoned container but don't have a Crowbar?
 Or your Javelina got a flat but you lost your Tire Iron in a Haboob?
 
-Then come on down to DaKota Garage off I-9 where our staff will help you find the melee weapon of your dreams!
-Our Nomad drivers deliver new stock all the time so check back regularly! (1 hour refresh)
+Then come on down to DaKota Garage off I-9 where our staff will help you find the melee weapon of your dreams! Our Nomad drivers deliver new stock all the time so check back regularly! (1 hour refresh)
 
 Also Available:
 The Ubiquitous Chib - Watson
@@ -24,18 +23,20 @@ The Ubiquitous Chib - Santo Domingo
 The Ubiquitous Chib - Black Market
 H10 Food Vendor
 
-
 Files
+
 Upcoming Merc
-Level appropriate melee weapons like a vanilla vendor with Rare and Epic Blade, Melee, Thrown and Blunt mods. Designed for use from the start of the game to respect gameplay balance.
+Level appropriate melee weapons like a vanilla vendor with Rare and Epic Blade, Melee, Thrown and Blunt mods.
+Designed for use from the start of the game to respect gameplay balance.
 
 Legend of NC
-Legendary (Tier 5) melee weapons and mods. Designed for use at level 60 or if you don't care about gameplay balance.
+Legendary (Tier 5) melee weapons and mods. Designed for use at level 50+ or if you don't care about gameplay balance.
 
 INSTALL ONE.
 Both versions overwrite each other so you can swap between them as you progress through the game if you want to.
 
 Requirements
+
 ArchiveXL
 Codeware
 RED4ext
@@ -44,12 +45,20 @@ TweakXL
 VendorsXL
 
 How to Install
+
 Install all the requirements.
 Download EITHER the Upcoming Merc (level appropriate) OR the Legend of NC (all legendary) archive from the files section.
 Unpack the zip file into the "Cyberpunk 2077" folder so that the "TheUbiquitousChib_NorthBadlands.yaml" file ends up in the "Cyberpunk 2077\r6\tweaks" folder.
 
 How to Uninstall
+
 Delete the "TheUbiquitousChib_NorthBadlands.yaml" file from the "Cyberpunk 2077\r6\tweaks" folder.
+
+Thanks
+
+Many thanks to deceptious, psiberx and the authors of all the required mods without whom this would not be possible.
+
+
 
 
 Header Image - Max file size 750kb, JPG, PNG or GIF - size?

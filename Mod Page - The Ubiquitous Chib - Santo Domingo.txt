@@ -12,8 +12,7 @@ Does the thought of a pit fight against the meat mountain known as Rhino fill yo
 Has your water filter broken for the third time this week and you need a Crowbar to fix it?
 Or do you want to show off at the next 6th Street rally with a shiny new Tomahawk?
 
-Then come on down to Kendal Park where our friendly staff will help you find the melee weapon of your dreams!
-Our local contacts deliver new stock all the time so check back regularly! (1 hour refresh)
+Then come on down to Kendal Park where our friendly staff will help you find the melee weapon of your dreams! Our local contacts deliver new stock all the time so check back regularly! (1 hour refresh)
 
 Also Available:
 The Ubiquitous Chib - Watson
@@ -25,6 +24,7 @@ The Ubiquitous Chib - Black Market
 H10 Food Vendor
 
 Files
+
 Upcoming Merc
 Level appropriate melee weapons like a vanilla vendor with Epic and Legendary Blade, Melee, Thrown and Blunt mods plus some consumables.
 Designed for use from the start of the game to respect gameplay balance.
@@ -36,6 +36,7 @@ INSTALL ONE.
 Both versions overwrite each other so you can swap between them as you progress through the game if you want to.
 
 Requirements
+
 ArchiveXL
 Codeware
 RED4ext
@@ -44,12 +45,20 @@ TweakXL
 VendorsXL
 
 How to Install
+
 Install all the requirements.
 Download EITHER the Upcoming Merc (level appropriate) OR the Legend of NC (all legendary) archive from the files section.
 Unpack the zip file into the "Cyberpunk 2077" folder so that the "TheUbiquitousChib_SantoDomingo.yaml" file ends up in the "Cyberpunk 2077\r6\tweaks" folder.
 
 How to Uninstall
+
 Delete the "TheUbiquitousChib_SantoDomingo.yaml" file from the "Cyberpunk 2077\r6\tweaks" folder.
+
+Thanks
+
+Many thanks to deceptious, psiberx and the authors of all the required mods without whom this would not be possible.
+
+
 
 
 Header Image - 1920x548, max file size 750kb, JPG, PNG or GIF
