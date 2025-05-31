@@ -1,0 +1,7 @@
+streaming:
+  blocks:
+  - theubiquitouschib_westbrook/all.streamingblock
+resource:
+  patch:
+    theubiquitouschib_westbrook/custom_devices.devices:
+    - base\worlds\03_night_city\_compiled\default\03_night_city.devices
