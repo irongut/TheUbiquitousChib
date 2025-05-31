@@ -82,6 +82,8 @@ Files:
 Raw Images:
 Vendor with prompt		= done
 Map						= done
+Store					= done
+Store L					= done
 Vendor Portrait			= done
 Vendor from distance	= done
 Vendor with Becca		= done
@@ -91,10 +93,11 @@ Final Images:
 Header Image			= done
 Vendor Portrait			= done
 Vendor Prompt / Map		= done
-Store					= use Heywood
-Store L					= use Heywood
+Store					= done
+Store L					= done
 Vendor from distance	= done
 Vendor with Becca		= done
+Update 1.1 				= done
 
 
 
