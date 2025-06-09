@@ -1,20 +1,25 @@
 Mod Page: The Ubiquitous Chib - Heywood
+https://www.nexusmods.com/cyberpunk2077/mods/21088
 
 Category = Vendors
 Name = The Ubiquitous Chib - Heywood
 Language = n/a
-Version = 1.0.0
+Version = 1.1.0
 Author = Irongut
-Overview = Adds a vendor to the alley behind The Time Machine in Heywood who sells all melee weapons and relevant mods.
+Overview = Adds a vendor to the alley behind The Time Machine in Heywood who sells all melee weapons and relevant mods with displayed weapons, a laptop and a radio.
 Description = 
 Are you a Heywood salaryman shuffling between the office and your conapt in Wellsprings every day?
 Does your boss disrespect you because you don't have a ceremonial sword or Tanto?
 Are you a major league mercenary late for a meeting at Embers but you forgot your Neurotoxin knife?
-Do you desire the fear and respect on the street that comes with a Chainsword?
+Do you desire the fear and respect on the street that comes with a CHAINSWORD?
 
 Then come on down to The Ubiquitous Chib - Heywood, behind The Time Machine where our expert staff will help you find the melee weapon of your dreams! Our local contacts deliver new stock all the time so check back regularly! (1 hour refresh)
 
-Streetkid Bonus: If you install before starting a new game the vendor is available during the Streetkid prologue, when you jump down into the alley after leaving Padre. You won't get a chance to use it till the Sandra Dorset mission but it does allow you to purchase a melee weapon for that mission.
+Update: v1.1 adds military cases, displayed weapons, a laptop, a radio and a street light to make the area look more like a weapon shop. Keep an eye open for other customers, you may see a familiar face or two!
+
+Customers visit for 1 hour from: [spoiler]03:00, 07:00, 13:00, 19:00, 23:00[/spoiler]
+
+Streetkid Bonus: If you install before starting a new game the vendor is available during the Streetkid prologue, when you jump down into the alley after talking to Padre.
 
 Also Available:
 The Ubiquitous Chib - Watson
@@ -37,6 +42,10 @@ Legendary (Tier 5) melee weapons and mods. Designed for use at level 50+ or if y
 INSTALL ONE.
 Both versions overwrite each other so you can swap between them as you progress through the game if you want to.
 
+Performance & Compatibility
+
+The mod adds 30 meshes, 3 devices, up to 2 NPCs and the vendor as well as removing 14 trash items. Since these are native edits the performance impact is minimal and it should be compatible with anything that doesn't change the same area.
+
 Requirements
 
 ArchiveXL
@@ -50,15 +59,16 @@ How to Install
 
 Install all the requirements.
 Download EITHER the Upcoming Merc (level appropriate) OR the Legend of NC (all legendary) archive from the files section.
-Unpack the zip file into the "Cyberpunk 2077" folder so that the "TheUbiquitousChib_Heywood.yaml" file ends up in the "Cyberpunk 2077\r6\tweaks" folder.
+Unpack the zip file into the "Cyberpunk 2077" folder so that the files "TheUbiquitousChib_Heywood.archive", "theubiquitouschib_heywood.xl" and "theubiquitouschib_heywood_rm.xl" end up in the "Cyberpunk 2077\archive\pc\mod" folder and the "TheUbiquitousChib_Heywood.yaml" file ends up in the "Cyberpunk 2077\r6\tweaks" folder.
 
 How to Uninstall
 
-Delete the "TheUbiquitousChib_Heywood.yaml" file from the "Cyberpunk 2077\r6\tweaks" folder.
+From the "Cyberpunk 2077\archive\pc\mod" folder delete the files "TheUbiquitousChib_Heywood.archive", "theubiquitouschib_heywood.xl" and "theubiquitouschib_heywood_rm.xl".
+From the "Cyberpunk 2077\r6\tweaks" folder delete the file "TheUbiquitousChib_Heywood.yaml".
 
 Thanks
 
-Many thanks to deceptious, psiberx and the authors of all the required mods without whom this would not be possible.
+World edits and customers were added using the amazing World Builder by keanuWheeze / NexusGuy999. Many thanks also to deceptious, psiberx and the authors of all the required mods without whom this would not be possible.
 
 
 
@@ -82,12 +92,12 @@ Files:
 
 
 Raw Images:
-Store - Weapons	1		= use Dogtown / Badlands
-Store - Weapons	2		= use Dogtown / Badlands
-Store - Mods			= use Dogtown / Badlands
-Store - Weapons L 1		= use Dogtown / Badlands
-Store - Weapons L 2		= use Dogtown / Badlands
-Store - Mods L			= use Dogtown / Badlands
+Store - Weapons	1		= use Badlands
+Store - Weapons	2		= use Badlands
+Store - Mods			= use Badlands
+Store - Weapons L 1		= use Badlands
+Store - Weapons L 2		= use Badlands
+Store - Mods L			= use Badlands
 Vendor with prompt		= done
 Map						= done
 Vendor Portrait			= done
@@ -103,9 +113,9 @@ Store					= use Badlands
 Store L					= use Badlands
 Vendor from distance	= done
 Vendor with Becca		= done
-
+Update 1.1 				= done
 
 
 The Ubiquitous Chib - Heywood
 TheUbiquitousChib_Heywood
-https://www.nexusmods.com/cyberpunk2077/mods/21088
+
