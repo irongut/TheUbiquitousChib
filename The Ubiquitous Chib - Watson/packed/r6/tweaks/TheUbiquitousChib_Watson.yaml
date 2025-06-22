@@ -27,11 +27,13 @@ Character.irongut_ubiquitouschib_watson:
     # Hammers
     - Items.Preset_Hammer_Default
     # Mods - Blade
+    - Items.BladeMod3_Common
     - Items.BladeMod1_Uncommon
     - Items.BladeMod3_Uncommon
     - Items.BladeMod1_Rare
     - Items.BladeMod3_Rare
     # Mods - Melee
+    - Items.MeleeMod3_Common
     - Items.MeleeMod1_Uncommon
     - Items.MeleeMod2_Uncommon
     - Items.MeleeMod3_Uncommon
@@ -39,12 +41,14 @@ Character.irongut_ubiquitouschib_watson:
     - Items.MeleeMod2_Rare
     - Items.MeleeMod3_Rare
     # Mods - Thrown
+    - Items.ThrowMod3_Common
     - Items.ThrowMod1_Uncommon
     - Items.ThrowMod3_Uncommon
     - Items.ThrowMod1_Rare
     - Items.ThrowMod2_Rare
     - Items.ThrowMod3_Rare
     # Mods - Blunt
+    - Items.BluntMod1_Common
     - Items.BluntMod1_Uncommon
     - Items.BluntMod2_Uncommon
     - Items.BluntMod1_Rare
