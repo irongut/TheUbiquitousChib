@@ -1,18 +1,23 @@
 Mod Page: The Ubiquitous Chib - Watson
+https://www.nexusmods.com/cyberpunk2077/mods/20886
 
 Category = Vendors
 Name = The Ubiquitous Chib - Watson
 Language = n/a
-Version = 1.0.0
+Version = 1.1.0
 Author = Irongut
-Overview = Adds a melee weapon vendor to Watson who sells everything Coach Fred is missing, including mods.
+Overview = Adds a melee weapon vendor to Watson who sells everything Coach Fred is missing, including mods, with displayed weapons, a usable laptop and a radio.
 Description = 
-Are you a Watson resident, unable to buy a new knife for your kitchen because of an NCPD lockdown?
+Are you a Watson resident, unable to buy a knife for your kitchen because of an NCPD lockdown?
 Do you prefer the elegance of a Tanto over a silenced pistol?
-Are you bored of Coach Fred's tired old selection of clubs and his attempts to make you into a boxer?
+Are you bored of Coach Fred's tired selection of clubs and his attempts to make you a boxer?
 Do you long for a Katana, Punk Knife or even... a Hammer?
 
 Then come on down to the Northside Motel on Martin Street where our sales person has the melee weapon of your dreams! New stock is delivered all the time so check back regularly! (1 hour refresh)
+
+Update: v1.1 adds common mods to the vendor, decorations, a usable laptop, radio and a street light to make the area look more like a pop-up shop. Keep an eye open for other customers, you may see a few familiar faces!
+
+Customers visit for 1 hour from: [spoiler]02:00, 07:00, 11:00, 16:00, 22:00[/spoiler]
 
 Also Available:
 The Ubiquitous Chib - Dogtown
@@ -26,15 +31,21 @@ H10 Food Vendor
 Files
 
 Upcoming Merc
-Level appropriate melee weapons like a vanilla vendor with Uncommon and Rare Blade, Melee, Thrown & Blunt mods.
+Level appropriate melee weapons like a vanilla vendor with Common, Uncommon and Rare mods.
 Designed for use from the start of the game to respect gameplay balance.
 
 Legend of NC
-Legendary (Tier 5) melee weapons and Blade, Melee, Thrown & Blunt mods.
+Legendary (Tier 5) melee weapons and mods.
 Designed for use at level 50+ or if you don't care about gameplay balance.
 
 INSTALL ONE.
 Both versions overwrite each other so you can swap between them as you progress through the game if you want to.
+
+Performance & Compatibility
+
+This mod adds 22 meshes, 3 devices, up to 3 NPCs and the vendor. Since these are native edits the performance impact is minimal and it should be compatible with anything that doesn't change the same area.
+
+I've tested to ensure the changes do not interfere with the gig Flight of the Cheetah so it is safe to install before helping Hwangbo.
 
 Requirements
 
@@ -49,15 +60,16 @@ How to Install
 
 Install all the requirements.
 Download EITHER the Upcoming Merc (level appropriate) OR the Legend of NC (all legendary) archive from the files section.
-Unpack the zip file into the "Cyberpunk 2077" folder so that the "TheUbiquitousChib_Watson.yaml" file ends up in the "Cyberpunk 2077\r6\tweaks" folder.
+Unpack the zip file into the "Cyberpunk 2077" folder so that the files "TheUbiquitousChib_Watson.archive" and "theubiquitouschib_watson.xl" end up in the "Cyberpunk 2077\archive\pc\mod" folder and the "TheUbiquitousChib_Watson.yaml" file ends up in the "Cyberpunk 2077\r6\tweaks" folder.
 
 How to Uninstall
 
-Delete the "TheUbiquitousChib_Watson.yaml" file from the "Cyberpunk 2077\r6\tweaks" folder.
+From the "Cyberpunk 2077\archive\pc\mod" folder delete the files "TheUbiquitousChib_Watson.archive" and "theubiquitouschib_watson.xl".
+From the "Cyberpunk 2077\r6\tweaks" folder delete the file "TheUbiquitousChib_Watson.yaml".
 
 Thanks
 
-Many thanks to deceptious, psiberx and the authors of all the required mods without whom this would not be possible.
+World edits and NPCs were added using the amazing World Builder by keanuWheeze / NexusGuy999. Many thanks also to deceptious, psiberx and the authors of all the required mods without whom this would not be possible.
 
 
 
@@ -90,6 +102,7 @@ Map						= done
 Vendor Portrait			= done
 Vendor from distance	= done
 Vendor with Becca		= done
+Update 1.1 				= done
 
 
 Final Images:
@@ -100,3 +113,7 @@ Store					= done
 Store - Legendary		= done
 Vendor from distance	= done
 Vendor with Becca		= done
+Update 1.1 				= done
+
+
+TheUbiquitousChib_Watson
