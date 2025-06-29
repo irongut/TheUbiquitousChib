@@ -1,11 +1,12 @@
 Mod Page: The Ubiquitous Chib - Dogtown
+https://www.nexusmods.com/cyberpunk2077/mods/20913
 
 Category = Vendors
 Name = The Ubiquitous Chib - Dogtown
 Language = n/a
-Version = 1.0.0
+Version = 1.1.0
 Author = Irongut
-Overview = Adds a vendor to Longshore Stacks in Dogtown who sells all melee weapons, mods and performance enhancements.
+Overview = Adds a vendor to Longshore Stacks in Dogtown who sells all melee weapons, mods and performance enhancements with weapon display, a usable laptop and radio.
 Description = 
 Are you down on your luck or on the run?
 Have you fallen off Skid Row and ended up in Dogtown?
@@ -13,6 +14,10 @@ Did you pawn your Katana for Black Lace?
 And your favourite Tomahawk got stuck in a Scav skull this morning?
 
 Then come on down to the Sky Gym in Longshore Stacks where our staff will help you find the melee weapon of your dreams! Our stealth drones deliver new stock all the time so check back regularly! (1 hour refresh)
+
+Update: v1.1 adds military cases, displayed weapons, a usable laptop, a radio and a light to make the area look more like a pop-up shop. Keep an eye open for other customers, you may see a familiar face!
+
+Customers visit for 1 hour from: [spoiler]01:00, 14:00, 20:00[/spoiler]
 
 Also Available:
 The Ubiquitous Chib - Watson
@@ -26,13 +31,17 @@ H10 Food Vendor
 Files
 
 Upcoming Merc
-Level appropriate melee weapons like a vanilla vendor; Rare and Epic Blade, Melee, Thrown and Blunt mods; and a selection of combat performance enhancements. Designed for use from the start of Phantom Liberty to respect gameplay balance.
+Level appropriate melee weapons, Rare and Epic mods and performance enhancements. Designed for use from the start of Phantom Liberty to respect gameplay balance.
 
 Legend of NC
-Legendary (Tier 5) melee weapons; Legendary (Tier 5) Blade, Melee, Thrown and Blunt mods; and a selection of combat performance enhancements. Designed for use at level 50+ or if you don't care about gameplay balance.
+Legendary (Tier 5) melee weapons, Legendary (Tier 5) mods and performance enhancements. Designed for use at level 50+ or if you don't care about gameplay balance.
 
 INSTALL ONE.
 Both versions overwrite each other so you can swap between them as you progress through the game if you want to.
+
+Performance & Compatibility
+
+The mod adds 15 meshes, 3 devices, an occasional NPC and the vendor as well as removing 5 items. Since these are native edits the performance impact is minimal and it should be compatible with anything that doesn't change the same area.
 
 Requirements
 
@@ -47,15 +56,16 @@ How to Install
 
 Install all the requirements.
 Download EITHER the Upcoming Merc (level appropriate) OR the Legend of NC (all legendary) archive from the files section.
-Unpack the zip file into the "Cyberpunk 2077" folder so that the "TheUbiquitousChib_Dogtown.yaml" file ends up in the "Cyberpunk 2077\r6\tweaks" folder.
+Unpack the zip file into the "Cyberpunk 2077" folder so that the files "TheUbiquitousChib_Dogtown.archive", "theubiquitouschib_dogtown.xl" and "theubiquitouschib_dogtown_rm.xl" end up in the "Cyberpunk 2077\archive\pc\mod" folder and the "TheUbiquitousChib_Dogtown.yaml" file ends up in the "Cyberpunk 2077\r6\tweaks" folder.
 
 How to Uninstall
 
-Delete the "TheUbiquitousChib_Dogtown.yaml" file from the "Cyberpunk 2077\r6\tweaks" folder.
+From the "Cyberpunk 2077\archive\pc\mod" folder delete the files "TheUbiquitousChib_Dogtown.archive", "theubiquitouschib_dogtown.xl" and "theubiquitouschib_dogtown_rm.xl".
+From the "Cyberpunk 2077\r6\tweaks" folder delete the file "TheUbiquitousChib_Dogtown.yaml".
 
 Thanks
 
-Many thanks to deceptious, psiberx and the authors of all the required mods without whom this would not be possible.
+World edits and customers were added using the amazing World Builder by keanuWheeze / NexusGuy999. Many thanks also to deceptious, psiberx and the authors of all the required mods without whom this would not be possible.
 
 
 
@@ -79,28 +89,26 @@ Files:
 
 
 Raw Images:
-Store - Weapons	1		= done
-Store - Weapons	2		= done
+Store - Weapons			= use SanDomo
 Store - Mods			= done
 Store - Consumables		= done
-Store - Weapons L 1		= done
-Store - Weapons L 2		= done
-Store - Mods L			= done
+Store - Weapons L		= use SanDomo
+Store - Mods L			= use SanDomo
 Store - Consumables	L	= n/a
 Vendor with prompt		= done
 Map						= done
 Vendor Portrait			= done
 Vendor from distance	= done
 Vendor with Becca		= done
+v1.1 update 			= 
 
 
 Final Images:
 Header Image			= done
 Vendor Portrait			= done
 Vendor Prompt / Map		= done
-Store - Weapons			= done
-Store - Mods + Cons		= done
-Store - Weapons L		= done
-Store - Mods + Cons L	= done
+Store					= done
+Store L					= done
 Vendor from distance	= done
 Vendor with Becca		= done
+v1.1 update 			= done
