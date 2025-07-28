@@ -1,0 +1,4 @@
+theubiquitouschib_santodomingo\all.streamingblock
+theubiquitouschib_santodomingo\custom_devices.devices
+theubiquitouschib_santodomingo\sectors\kendal_park.streamingsector
+theubiquitouschib_santodomingo\sectors\theubiquitouschib_santodomingo_always_loaded.streamingsector
