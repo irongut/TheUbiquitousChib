@@ -1,11 +1,12 @@
 Mod Page: The Ubiquitous Chib - Santo Domingo
+https://www.nexusmods.com/cyberpunk2077/mods/21490
 
 Category = Vendors
 Name = The Ubiquitous Chib - Santo Domingo
 Language = n/a
-Version = 1.0.0
+Version = 1.1.0
 Author = Irongut
-Overview = Adds a vendor to Kendal Park in Santo Domingo who sells all melee weapons, relevant mods and some consumables.
+Overview = Adds a vendor to Kendal Park in Santo Domingo who sells all melee weapons, relevant mods and some consumables with weapon display, a usable laptop and radio.
 Description = 
 Are you barred from the Tripple Xtreme Epic Workout Center due to a disagreement with the owner?
 Does the thought of a pit fight against the meat mountain known as Rhino fill you with dread?
@@ -13,6 +14,10 @@ Has your water filter broken for the third time this week and you need a Crowbar
 Or do you want to show off at the next 6th Street rally with a shiny new Tomahawk?
 
 Then come on down to Kendal Park where our friendly staff will help you find the melee weapon of your dreams! Our local contacts deliver new stock all the time so check back regularly! (1 hour refresh)
+
+Update: v1.1 adds decorations, a usable laptop and a radio to make the area look more like a pop-up shop. Keep an eye open for other customers, you may see a familiar face!
+
+Customers visit for 1 hour from: [spoiler]00:00, 07:00, 18:00, 21:00[/spoiler]
 
 Also Available:
 The Ubiquitous Chib - Watson
@@ -26,7 +31,7 @@ H10 Food Vendor
 Files
 
 Upcoming Merc
-Level appropriate melee weapons like a vanilla vendor with Epic and Legendary Blade, Melee, Thrown and Blunt mods plus some consumables.
+Level appropriate melee weapons like a vanilla vendor with Epic and Legendary mods plus some consumables.
 Designed for use from the start of the game to respect gameplay balance.
 
 Legend of NC
@@ -34,6 +39,10 @@ Legendary (Tier 5) melee weapons and mods plus some consumables. Designed for us
 
 INSTALL ONE.
 Both versions overwrite each other so you can swap between them as you progress through the game if you want to.
+
+Performance & Compatibility
+
+The mod adds 30 meshes, 2 devices, an occasional NPC and the vendor as well as removing 10 trash items. Since these are native edits the performance impact is minimal and it should be compatible with anything that doesn't change the same area.
 
 Requirements
 
@@ -48,15 +57,16 @@ How to Install
 
 Install all the requirements.
 Download EITHER the Upcoming Merc (level appropriate) OR the Legend of NC (all legendary) archive from the files section.
-Unpack the zip file into the "Cyberpunk 2077" folder so that the "TheUbiquitousChib_SantoDomingo.yaml" file ends up in the "Cyberpunk 2077\r6\tweaks" folder.
+Unpack the zip file into the "Cyberpunk 2077" folder so that the files "TheUbiquitousChib_SantoDomingo.archive", "theubiquitouschib_santodomingo.xl" and "theubiquitouschib_santodomingo_rm.xl" end up in the "Cyberpunk 2077\archive\pc\mod" folder and the "TheUbiquitousChib_SantoDomingo.yaml" file ends up in the "Cyberpunk 2077\r6\tweaks" folder.
 
 How to Uninstall
 
-Delete the "TheUbiquitousChib_SantoDomingo.yaml" file from the "Cyberpunk 2077\r6\tweaks" folder.
+From the "Cyberpunk 2077\archive\pc\mod" folder delete the files "TheUbiquitousChib_SantoDomingo.archive", "theubiquitouschib_santodomingo.xl" and "theubiquitouschib_santodomingo_rm.xl".
+From the "Cyberpunk 2077\r6\tweaks" folder delete the file "TheUbiquitousChib_SantoDomingo.yaml".
 
 Thanks
 
-Many thanks to deceptious, psiberx and the authors of all the required mods without whom this would not be possible.
+World edits and customers were added using the amazing World Builder by keanuWheeze / NexusGuy999. Many thanks also to deceptious, psiberx and the authors of all the required mods without whom this would not be possible.
 
 
 
