@@ -53,27 +53,22 @@ Character.irongut_ubiquitouschib_santodomingo:
     - Items.BluntMod2_Legendary
     - Items.BluntMod3_Legendary
     # Consumables
+    - Items.CarryCapacityBooster      # CAPACITY BOOSTER
     - Items.CarryCapacityBooster
     - Items.CarryCapacityBooster
     - Items.CarryCapacityBooster
     - Items.CarryCapacityBooster
-    - Items.CarryCapacityBooster
+    - Items.HealthBooster             # HEALTH BOOSTER
     - Items.HealthBooster
     - Items.HealthBooster
     - Items.HealthBooster
     - Items.HealthBooster
-    - Items.HealthBooster
-    - Items.OxyBooster
-    - Items.OxyBooster
-    - Items.OxyBooster
-    - Items.OxyBooster
-    - Items.OxyBooster
+    - Items.MemoryBooster             # RAM JOLT
     - Items.MemoryBooster
     - Items.MemoryBooster
     - Items.MemoryBooster
     - Items.MemoryBooster
-    - Items.MemoryBooster
-    - Items.StaminaBooster
+    - Items.StaminaBooster            # STAMINA BOOSTER
     - Items.StaminaBooster
     - Items.StaminaBooster
     - Items.StaminaBooster
