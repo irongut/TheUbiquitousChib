@@ -1,4 +1,4 @@
-sCharacter.irongut_ubiquitouschib_northbadlands:
+Character.irongut_ubiquitouschib_northbadlands:
   $base: Character.vendorsxl_base
   appearanceName: gang__cyberpunk_wa_gang_cyberpunk_wa_14
   entityTemplatePath: base\characters\entities\gang\gang__cyberpunk_wa.ent
