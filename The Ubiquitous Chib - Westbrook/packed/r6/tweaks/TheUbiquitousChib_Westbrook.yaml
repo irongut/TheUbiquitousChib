@@ -1,13 +1,16 @@
+Factions.Irongut_TUC_Faction:
+  $base: Factions.TheMox
+  enumName: Irongut_TUC_Faction
+  localizedName: irongut_tuc_faction_name
+
 Character.irongut_ubiquitouschib_westbrook:
   $base: Character.vendorsxl_base
   appearanceName: gang__cyberpunk_wa_gang_cyberpunk_wa_20
   entityTemplatePath: base\characters\entities\gang\gang__cyberpunk_wa.ent
-  affiliation: Factions.TheMox
+  affiliation: Factions.Irongut_TUC_Faction
   displayName: LocKey#66984
   holocallInitializerPath: base\workspots\common\rail\generic__stand_rail_lean_back_cigarette__smoke__01.workspot
   bossHealthBarThresholds: [-145.9, -34.55, 21.775, 0, 0, -0.9, 0.420]
-    #Position data           x,   y,   z, 
-    #and Rotation data (quaternions)        i,   j,   k ,  r
   items:
     # Knives
     - Items.Preset_Chefs_Knife_Default
