@@ -1,8 +1,13 @@
+Factions.Irongut_TUC_Faction:
+  $base: Factions.TheMox
+  enumName: Irongut_TUC_Faction
+  localizedName: irongut_tuc_faction_name
+
 Character.irongut_ubiquitouschib_santodomingo:
   $base: Character.vendorsxl_base
   appearanceName: corpo__generic_ma_shotgun_01
   entityTemplatePath: base\characters\entities\corpo\corpo__generic_ma.ent
-  affiliation: Factions.TheMox
+  affiliation: Factions.Irongut_TUC_Faction
   displayName: LocKey#67527
   holocallInitializerPath: base\workspots\common\wall\generic__stand_wall_lean_back_cigarette__smoke__01.workspot
   bossHealthBarThresholds: [463.7592, -1653.528, 10.621, 0, 0, 0.057, -0.9983]
