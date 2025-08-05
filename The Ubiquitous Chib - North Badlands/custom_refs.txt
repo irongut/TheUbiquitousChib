@@ -1,6 +1,8 @@
 base\icon\dmbrr.inkatlas
 base\icon\dmbrr.xbm
+base\localization\theubiquitouschib_northbadlands.json
 theubiquitouschib_northbadlands\all.streamingblock
 theubiquitouschib_northbadlands\custom_devices.devices
+theubiquitouschib_northbadlands\localization\en_us.json
 theubiquitouschib_northbadlands\sectors\dakota_yard.streamingsector
 theubiquitouschib_northbadlands\sectors\theubiquitouschib_northbadlands_always_loaded.streamingsector
