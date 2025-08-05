@@ -1,8 +1,13 @@
+Factions.Irongut_TUC_Faction:
+  $base: Factions.TheMox
+  enumName: Irongut_TUC_Faction
+  localizedName: irongut_tuc_faction_name
+
 Character.irongut_ubiquitouschib_dogtown:
   $base: Character.vendorsxl_base
   appearanceName: gang__cyberpunk_ma_merc_solo__lvl2_02
   entityTemplatePath: base\characters\entities\gang\gang__cyberpunk_ma.ent
-  affiliation: Factions.TheMox
+  affiliation: Factions.Irongut_TUC_Faction
   displayName: LocKey#67475 # David
   holocallInitializerPath: base\workspots\common\ground\generic__stand_ground_drug__inhale__02.workspot
   bossHealthBarThresholds: [-2309.5981, -2668.386, 33.286, 0, 0, -0.4881, 0.8728]
