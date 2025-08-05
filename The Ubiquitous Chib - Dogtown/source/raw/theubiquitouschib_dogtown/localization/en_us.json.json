@@ -1,0 +1,34 @@
+{
+  "Header": {
+    "WolvenKitVersion": "8.16.1",
+    "WKitJsonVersion": "0.0.9",
+    "GameVersion": 2200,
+    "ExportedDateTime": "2025-08-05T19:30:04.9446340Z",
+    "DataType": "CR2W",
+    "ArchiveFileName": "D:\\Dev\\WolvenKit\\TheUbiquitousChib\\The Ubiquitous Chib - Dogtown\\source\\archive\\theubiquitouschib_dogtown\\localization\\en_us.json"
+  },
+  "Data": {
+    "Version": 195,
+    "BuildVersion": 0,
+    "RootChunk": {
+      "$type": "JsonResource",
+      "cookingPlatform": "PLATFORM_None",
+      "root": {
+        "HandleId": "0",
+        "Data": {
+          "$type": "localizationPersistenceOnScreenEntries",
+          "entries": [
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "The Ubiquitous Chib",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "irongut_tuc_faction_name"
+            }
+          ]
+        }
+      }
+    },
+    "EmbeddedFiles": []
+  }
+}
