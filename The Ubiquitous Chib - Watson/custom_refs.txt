@@ -1,4 +1,5 @@
 theubiquitouschib_watson\all.streamingblock
 theubiquitouschib_watson\custom_devices.devices
+theubiquitouschib_watson\localization\en_us.json
 theubiquitouschib_watson\sectors\northside_motel.streamingsector
 theubiquitouschib_watson\sectors\theubiquitouschib_watson_always_loaded.streamingsector
