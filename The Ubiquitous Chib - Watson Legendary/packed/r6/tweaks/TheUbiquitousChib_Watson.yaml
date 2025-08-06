@@ -1,13 +1,16 @@
+Factions.Irongut_TUC_Faction:
+  $base: Factions.TheMox
+  enumName: Irongut_TUC_Faction
+  localizedName: irongut_tuc_faction_name
+
 Character.irongut_ubiquitouschib_watson:
   $base: Character.vendorsxl_base
   appearanceName: service__sexworker_wa_prostitute_poor_10
   entityTemplatePath: base\characters\entities\service\service__sexworker_wa.ent
-  affiliation: Factions.TheMox
+  affiliation: Factions.Irongut_TUC_Faction
   displayName: LocKey#66867 # Emma
   holocallInitializerPath: base\workspots\common\ground\generic__sit_ground_cigarette__smoke__01.workspot
   bossHealthBarThresholds: [-1485.7056, 2214.106, 18.18528, 0, 0, 0.8931971, 0.44966546]
-    #Position data:               x,  y,  z, 
-    #Rotation data (quaternions):             i,  j,  k,  r
   items:
     # Knives
     - Items.Craftable_Legendary_Chefs_Knife
