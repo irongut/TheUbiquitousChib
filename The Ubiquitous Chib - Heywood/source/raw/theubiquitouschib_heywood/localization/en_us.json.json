@@ -3,7 +3,7 @@
     "WolvenKitVersion": "8.16.1",
     "WKitJsonVersion": "0.0.9",
     "GameVersion": 2200,
-    "ExportedDateTime": "2025-08-05T19:30:04.9446340Z",
+    "ExportedDateTime": "2025-08-07T01:26:12.5489801Z",
     "DataType": "CR2W",
     "ArchiveFileName": "D:\\Dev\\WolvenKit\\TheUbiquitousChib\\The Ubiquitous Chib - Heywood\\source\\archive\\theubiquitouschib_heywood\\localization\\en_us.json"
   },
@@ -24,6 +24,20 @@
               "maleVariant": "",
               "primaryKey": "0",
               "secondaryKey": "irongut_tuc_faction_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "The Ubiquitous Chib - Heywood",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "irongut_ubiquitouschib_heywood_shard_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Are you a Heywood salaryman shuffling between the office and your conapt in Wellsprings every day?\\nDoes your boss disrespect you because you don\u0027t have a ceremonial sword or Tanto?\\nAre you a major league mercenary late for a meeting at Embers but you forgot your Neurotoxin knife?\\nDo you desire the fear and respect on the street that comes with a CHAINSWORD?\\n\\nThen come on down to The Ubiquitous Chib - Heywood, behind The Time Machine where our expert staff will help you find the melee weapon of your dreams!\\n\\nOur local contacts deliver new stock all the time so check back regularly!",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "irongut_ubiquitouschib_heywood_shard_content"
             }
           ]
         }
