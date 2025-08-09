@@ -1,0 +1,2 @@
+Items.tuc_northbadlands_advert_shard
+Items.tuc_northbadlands_convo_shard
