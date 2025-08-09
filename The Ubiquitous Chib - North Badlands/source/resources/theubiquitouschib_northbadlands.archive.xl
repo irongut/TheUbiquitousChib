@@ -1,3 +1,5 @@
+journal:
+  - theubiquitouschib_northbadlands\journal\theubiquitouschib_northbadlands_shards.journal
 localization:
   onscreens:
     en-us: theubiquitouschib_northbadlands\localization\en_us.json
