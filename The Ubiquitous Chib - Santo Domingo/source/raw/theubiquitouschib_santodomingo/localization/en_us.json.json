@@ -3,7 +3,7 @@
     "WolvenKitVersion": "8.16.1",
     "WKitJsonVersion": "0.0.9",
     "GameVersion": 2200,
-    "ExportedDateTime": "2025-08-05T19:30:04.9446340Z",
+    "ExportedDateTime": "2025-08-09T01:20:01.8490228Z",
     "DataType": "CR2W",
     "ArchiveFileName": "D:\\Dev\\WolvenKit\\TheUbiquitousChib\\The Ubiquitous Chib - Santo Domingo\\source\\archive\\theubiquitouschib_santodomingo\\localization\\en_us.json"
   },
@@ -24,6 +24,34 @@
               "maleVariant": "",
               "primaryKey": "0",
               "secondaryKey": "irongut_tuc_faction_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Archived Conversation: Christopher and Ava",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "tuc_santodomingo_convo_shard_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Christopher: Kerry Eurodyne was here again last night.\\nAva: In the park?\\nChristopher: He wears an old cap and leather jacket, thinks nobody recognises him.\\nAva: It was probably just some senile old gonk talking nonsense.\\nChristopher: The waitress from Caliente says he goes there too, says he\u0027s been drinking coffee there since the place opened.\\nAva: A world famous rockerboy in a dive like that? No way, they\u0027re pulling your leg.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "tuc_santodomingo_convo_shard_content"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "The Ubiquitous Chib - Santo Domingo",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "tuc_santodomingo_advert_shard_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Are you barred from the Tripple Xtreme Epic Workout Center due to a disagreement with the owner?\\nDoes the thought of a pit fight against the meat mountain known as Rhino fill you with dread?\\nHas your water filter broken for the third time this week and you need a Crowbar to fix it?\\nOr do you want to show off at the next 6th Street rally with a shiny new Tomahawk?\\n\\nThen come on down to Kendal Park where our friendly staff will help you find the melee weapon of your dreams!",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "tuc_santodomingo_advert_shard_content"
             }
           ]
         }
