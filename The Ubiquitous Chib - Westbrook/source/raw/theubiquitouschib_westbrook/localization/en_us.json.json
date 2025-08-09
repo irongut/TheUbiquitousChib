@@ -3,7 +3,7 @@
     "WolvenKitVersion": "8.16.1",
     "WKitJsonVersion": "0.0.9",
     "GameVersion": 2200,
-    "ExportedDateTime": "2025-08-08T23:36:40.1105064Z",
+    "ExportedDateTime": "2025-08-09T03:32:55.2655808Z",
     "DataType": "CR2W",
     "ArchiveFileName": "D:\\Dev\\WolvenKit\\TheUbiquitousChib\\The Ubiquitous Chib - Westbrook\\source\\archive\\theubiquitouschib_westbrook\\localization\\en_us.json"
   },
@@ -34,7 +34,7 @@
             },
             {
               "$type": "localizationPersistenceOnScreenEntry",
-              "femaleVariant": "Jennifer: Lizzy Wizzy came to the shop last night.\\nEmma: Really? What\u0027s she like?\\nJennifer: I dunno, shiny?\\nEmma: Come on! Did you speak to her?\\nJennifer: She didn\u0027t say much. She seemed distant, like she had something on her mind.\\nEmma: Did she buy anything?\\nJennifer: Yeah, this really nasty looking machette... in the cutest pink color!",
+              "femaleVariant": "Jennifer: Lizzy Wizzy came to the shop last night.\\nEmma: Really? What\u0027s she like?\\nJennifer: I dunno, shiny?\\nEmma: Come on! Did you speak to her?\\nJennifer: She didn\u0027t say much. She seemed distant, like she had something on her mind.\\nEmma: Did she buy anything?\\nJennifer: Yeah, this really nasty looking machette... in the cutest pink color!\\nEmma: I wonder if she\u0027ll use it in her next performance?",
               "maleVariant": "",
               "primaryKey": "0",
               "secondaryKey": "tuc_westbrook_convo_shard_content"
