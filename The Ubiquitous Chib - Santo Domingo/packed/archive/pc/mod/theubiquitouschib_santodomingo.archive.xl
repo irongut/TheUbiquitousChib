@@ -1,3 +1,5 @@
+journal:
+  - theubiquitouschib_santodomingo\journal\theubiquitouschib_santodomingo_shards.journal
 localization:
   onscreens:
     en-us: theubiquitouschib_santodomingo\localization\en_us.json
