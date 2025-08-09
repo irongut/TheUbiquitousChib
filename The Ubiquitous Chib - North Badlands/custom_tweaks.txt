@@ -1,2 +1,2 @@
-Items.tuc_northbadlands_advert_shard
-Items.tuc_northbadlands_convo_shard
+Items.tuc_badlands_advert_shard
+Items.tuc_badlands_convo_shard

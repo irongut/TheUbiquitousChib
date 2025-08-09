@@ -67,8 +67,8 @@ Character.irongut_ubiquitouschib_northbadlands:
   vendorID: Vendors.vendorxl_custom
   forcedTBHZOffset: 5
 
-Items.tuc_northbadlands_$(attribute)_shard:
-  $instances: &TUC_NorthBadlands_ShardData
+Items.tuc_badlands_$(attribute)_shard:
+  $instances: &TUC_Badlands_ShardData
     - { attribute: convo }
     - { attribute: advert        }
   $type: gamedataItem_Record
@@ -91,7 +91,7 @@ Items.tuc_northbadlands_$(attribute)_shard:
   isPart: False
   isSingleInstance: True
   itemCategory: ItemCategory.General
-  itemSecondaryAction: Items.tuc_northbadlands_$(attribute)_shard_secondary
+  itemSecondaryAction: Items.tuc_badlands_$(attribute)_shard_secondary
   itemType: ItemType.Gen_Readable
   localizedName: ""
   mass: 1
@@ -156,8 +156,8 @@ Items.tuc_northbadlands_$(attribute)_shard:
   statPools: []
   weakspots: []
 
-Items.tuc_northbadlands_$(attribute)_shard_secondary:
-  $instances: *TUC_NorthBadlands_ShardData
+Items.tuc_badlands_$(attribute)_shard_secondary:
+  $instances: *TUC_Badlands_ShardData
   $type: gamedataItemAction_Record
   isDefaultLootChoice: False
   removeAfterUse: True
@@ -176,4 +176,4 @@ Items.tuc_northbadlands_$(attribute)_shard_secondary:
   startEffects: []
   targetActivePrereqs: []
   targetPrereqs: []
-  journalEntry: onscreens/emails/generic/shards/world/tuc_northbadlands_$(attribute)_shard
+  journalEntry: onscreens/emails/generic/shards/world/tuc_badlands_$(attribute)_shard
