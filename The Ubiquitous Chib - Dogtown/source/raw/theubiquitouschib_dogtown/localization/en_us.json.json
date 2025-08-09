@@ -3,7 +3,7 @@
     "WolvenKitVersion": "8.16.1",
     "WKitJsonVersion": "0.0.9",
     "GameVersion": 2200,
-    "ExportedDateTime": "2025-08-05T19:30:04.9446340Z",
+    "ExportedDateTime": "2025-08-09T19:41:55.4753436Z",
     "DataType": "CR2W",
     "ArchiveFileName": "D:\\Dev\\WolvenKit\\TheUbiquitousChib\\The Ubiquitous Chib - Dogtown\\source\\archive\\theubiquitouschib_dogtown\\localization\\en_us.json"
   },
@@ -24,6 +24,34 @@
               "maleVariant": "",
               "primaryKey": "0",
               "secondaryKey": "irongut_tuc_faction_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Archived Conversation: David and Iron",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "tuc_dogtown_convo_shard_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "David: Barghest had the whole of Dogtown locked down for the night while they searched for her.\\nIron: I can\u0027t believe Hanson shot down Space Force One, the guy must have lost it\\nDavid: He\u0027s claiming it crashed but I saw the smoke trail from here boss, clear as day.\\nIron: The NUSA won\u0027t take this lying down. FIA agents are probably infiltrating the Saphire already.\\nDavid: Everyone\u0027s on edge from Luxor Heights to the Stacks, jumping at shadows.\\nIron: Fine steel in your hand will help calm those fears - that\u0027s your pitch today.\\nDavid: I\u0027ve had several customers already this morning.\\nIron: A little chaos is good for business. I should give Hands a call...",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "tuc_dogtown_convo_shard_content"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "The Ubiquitous Chib - Dogtown",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "tuc_dogtown_advert_shard_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Are you down on your luck or on the run?\\nHave you fallen off Skid Row and ended up in Dogtown?\\nDid you pawn your Katana for Black Lace?\\nAnd your favourite Tomahawk got stuck in a Scav skull this morning?\\n\\nThen come on down to the Sky Gym in Longshore Stacks where our staff will help you find the melee weapon of your dreams!",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "tuc_dogtown_advert_shard_content"
             }
           ]
         }
