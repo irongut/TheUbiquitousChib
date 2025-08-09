@@ -3,7 +3,7 @@
     "WolvenKitVersion": "8.16.1",
     "WKitJsonVersion": "0.0.9",
     "GameVersion": 2200,
-    "ExportedDateTime": "2025-08-09T19:41:55.4753436Z",
+    "ExportedDateTime": "2025-08-09T19:59:16.2410756Z",
     "DataType": "CR2W",
     "ArchiveFileName": "D:\\Dev\\WolvenKit\\TheUbiquitousChib\\The Ubiquitous Chib - Dogtown\\source\\archive\\theubiquitouschib_dogtown\\localization\\en_us.json"
   },
@@ -34,7 +34,7 @@
             },
             {
               "$type": "localizationPersistenceOnScreenEntry",
-              "femaleVariant": "David: Barghest had the whole of Dogtown locked down for the night while they searched for her.\\nIron: I can\u0027t believe Hanson shot down Space Force One, the guy must have lost it\\nDavid: He\u0027s claiming it crashed but I saw the smoke trail from here boss, clear as day.\\nIron: The NUSA won\u0027t take this lying down. FIA agents are probably infiltrating the Saphire already.\\nDavid: Everyone\u0027s on edge from Luxor Heights to the Stacks, jumping at shadows.\\nIron: Fine steel in your hand will help calm those fears - that\u0027s your pitch today.\\nDavid: I\u0027ve had several customers already this morning.\\nIron: A little chaos is good for business. I should give Hands a call...",
+              "femaleVariant": "David: Barghest had the whole of Dogtown locked down for the night while they searched for her.\\nIron: I can\u0027t believe Hanson shot down Space Force One, the guy must have lost it!\\nDavid: He\u0027s claiming it crashed but I saw the smoke trail from here boss, clear as day.\\nIron: The NUSA won\u0027t take this lying down. FIA agents are probably infiltrating the Saphire already.\\nDavid: Everyone\u0027s on edge from Luxor Heights to the Stacks, jumping at shadows.\\nIron: Fine steel in your hand will help calm those fears - that\u0027s your pitch today.\\nDavid: I\u0027ve had several customers already this morning.\\nIron: A little chaos is good for business. I should give Hands a call...",
               "maleVariant": "",
               "primaryKey": "0",
               "secondaryKey": "tuc_dogtown_convo_shard_content"
