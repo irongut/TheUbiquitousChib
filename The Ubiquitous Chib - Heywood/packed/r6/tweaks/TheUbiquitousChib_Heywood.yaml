@@ -11,8 +11,6 @@ Character.irongut_ubiquitouschib_heywood:
   displayName: LocKey#67589
   holocallInitializerPath: base\workspots\common\ledge\generic__sit_ledge__smoke__01.workspot
   bossHealthBarThresholds: [-1805.2025, -576.5555, 8.3, 0, 0, 0.3764, 0.9286]
-    #Position data           x,   y,   z, 
-    #and Rotation data (quaternions)        i,   j,   k ,  r
   items:
     # Knives
     - Items.Preset_Chefs_Knife_Default

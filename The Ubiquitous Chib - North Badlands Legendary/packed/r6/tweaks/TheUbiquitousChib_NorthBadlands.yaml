@@ -11,8 +11,6 @@ Character.irongut_ubiquitouschib_northbadlands:
   displayName: LocKey#66862
   holocallInitializerPath: base\workspots\common\ledge\generic__sit_ledge__smoke__01.workspot
   bossHealthBarThresholds: [2380.9714, -741.590, 68.420, 0, 0, 0.7109, -0.7033]
-    #Position data           x,   y,   z, 
-    #and Rotation data (quaternions)        i,   j,   k ,  r
   items:
     # Knives
     - Items.Craftable_Legendary_Chefs_Knife

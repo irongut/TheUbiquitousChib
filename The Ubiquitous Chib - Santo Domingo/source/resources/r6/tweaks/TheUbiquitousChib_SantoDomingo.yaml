@@ -11,8 +11,6 @@ Character.irongut_ubiquitouschib_santodomingo:
   displayName: LocKey#67527
   holocallInitializerPath: base\workspots\common\wall\generic__stand_wall_lean_back_cigarette__smoke__01.workspot
   bossHealthBarThresholds: [463.7592, -1653.528, 10.621, 0, 0, 0.057, -0.9983]
-    #Position data           x,   y,   z, 
-    #and Rotation data (quaternions)        i,   j,   k ,  r
   items:
     # Knives
     - Items.Preset_Chefs_Knife_Default
