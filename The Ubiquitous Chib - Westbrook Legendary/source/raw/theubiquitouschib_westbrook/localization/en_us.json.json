@@ -3,7 +3,7 @@
     "WolvenKitVersion": "8.16.1",
     "WKitJsonVersion": "0.0.9",
     "GameVersion": 2200,
-    "ExportedDateTime": "2025-08-05T19:30:04.9446340Z",
+    "ExportedDateTime": "2025-08-09T03:34:04.7285643Z",
     "DataType": "CR2W",
     "ArchiveFileName": "D:\\Dev\\WolvenKit\\TheUbiquitousChib\\The Ubiquitous Chib - Westbrook Legendary\\source\\archive\\theubiquitouschib_westbrook\\localization\\en_us.json"
   },
@@ -24,6 +24,34 @@
               "maleVariant": "",
               "primaryKey": "0",
               "secondaryKey": "irongut_tuc_faction_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Archived Conversation: Jennifer and Emma",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "tuc_westbrook_convo_shard_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Jennifer: Lizzy Wizzy came to the shop last night.\\nEmma: Really? What\u0027s she like?\\nJennifer: I dunno, shiny?\\nEmma: Come on! Did you speak to her?\\nJennifer: She didn\u0027t say much. She seemed distant, like she had something on her mind.\\nEmma: Did she buy anything?\\nJennifer: Yeah, this really nasty looking machette... in the cutest pink color!\\nEmma: I wonder if she\u0027ll use it in her next performance?",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "tuc_westbrook_convo_shard_content"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "The Ubiquitous Chib - Westbrook",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "tuc_westbrook_advert_shard_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Are you worried about the homeless camps encroaching on North Oak?\\nDo the paparazzi break into your mansion but your manager won\u0027t let you carry a gun?\\nWould the gift of a ceremonial Kukri or Tanto seal that important business deal?\\nBut you\u0027re intimidated by the booster gangs hanging around Spector Cheng\u0027s gym?\\n\\nThen come on down to the observation platform on the corner of Grant \u0026 Lele where our expert staff will help you find the melee weapon of your dreams!",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "tuc_westbrook_advert_shard_content"
             }
           ]
         }

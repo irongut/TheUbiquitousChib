@@ -1,3 +1,5 @@
+journal:
+  - theubiquitouschib_heywood\journal\theubiquitouschib_heywood_shards.journal
 localization:
   onscreens:
     en-us: theubiquitouschib_heywood\localization\en_us.json

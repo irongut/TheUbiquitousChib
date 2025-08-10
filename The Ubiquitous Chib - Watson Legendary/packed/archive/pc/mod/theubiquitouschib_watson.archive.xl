@@ -1,3 +1,5 @@
+journal:
+  - theubiquitouschib_watson\journal\theubiquitouschib_watson_shards.journal
 localization:
   onscreens:
     en-us: theubiquitouschib_watson\localization\en_us.json

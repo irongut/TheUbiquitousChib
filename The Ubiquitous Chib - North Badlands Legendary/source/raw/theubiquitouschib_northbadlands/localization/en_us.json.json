@@ -3,7 +3,7 @@
     "WolvenKitVersion": "8.16.1",
     "WKitJsonVersion": "0.0.9",
     "GameVersion": 2200,
-    "ExportedDateTime": "2025-08-05T19:30:04.9446340Z",
+    "ExportedDateTime": "2025-08-09T21:14:30.3727288Z",
     "DataType": "CR2W",
     "ArchiveFileName": "D:\\Dev\\WolvenKit\\TheUbiquitousChib\\The Ubiquitous Chib - North Badlands Legendary\\source\\archive\\theubiquitouschib_northbadlands\\localization\\en_us.json"
   },
@@ -24,6 +24,34 @@
               "maleVariant": "",
               "primaryKey": "0",
               "secondaryKey": "irongut_tuc_faction_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Archived Conversation: Elizabeth and Iron",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "tuc_badlands_convo_shard_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Elizabeth: Carol says they\u0027ll make the next shipment on Tuesday.\\nIron: Perfect, the whisky I promised Cassidy will arrive before then.\\nElizabeth: Dakota has dibs on half the shipment.\\nIron: Take what you need and we\u0027ll send the rest to Dogtown.\\nElizabeth: Barghest haven\u0027t discovered the drones?\\nIron: No, the radar coverage map we got from Hands is accurate.\\nElizabeth: What if someone sees them flying over the wall?\\nIron: They\u0027re fitted with Optical Camo, as long as they don\u0027t hit anything they\u0027ll be fine.",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "tuc_badlands_convo_shard_content"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "The Ubiquitous Chib - North Badlands",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "tuc_badlands_advert_shard_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Is life in Night City too fast and noisy for you?\\nDo you prefer a quiet trailer in Red Peaks or Rocky Ridge Plains?\\nHave you found an abandoned container but don\u0027t have a Crowbar?\\nOr did your Javelina get a flat but you lost your Tire Iron in a Haboob?\\n\\nThen come on down to DaKota Garage off I-9 where our staff will help you find the melee weapon of your dreams!",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "tuc_badlands_advert_shard_content"
             }
           ]
         }

@@ -3,7 +3,7 @@
     "WolvenKitVersion": "8.16.1",
     "WKitJsonVersion": "0.0.9",
     "GameVersion": 2200,
-    "ExportedDateTime": "2025-08-05T19:30:04.9446340Z",
+    "ExportedDateTime": "2025-08-08T20:20:14.5207154Z",
     "DataType": "CR2W",
     "ArchiveFileName": "D:\\Dev\\WolvenKit\\TheUbiquitousChib\\The Ubiquitous Chib - Watson\\source\\archive\\theubiquitouschib_watson\\localization\\en_us.json"
   },
@@ -24,6 +24,34 @@
               "maleVariant": "",
               "primaryKey": "0",
               "secondaryKey": "irongut_tuc_faction_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Archived Conversation: Emma and David",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "tuc_watson_convo_shard_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Emma: Tyger Claws were looking for someone at the Motel earlier.\\nDavid: They cause you any trouble?\\nEmma: Nah, they asked a few questions but they knew about our deal with Wakako.\\nDavid: Watch your back, not all of them listen to Wakako.\\nEmma: Worry about your own back you gonk, you\u0027re in Dogtown!",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "tuc_watson_convo_shard_content"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "The Ubiquitous Chib - Watson",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "tuc_watson_advert_shard_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Are you unable to buy a knife for your kitchen because of an NCPD lockdown?\\nDo you prefer the elegance of a Tanto over a silenced pistol?\\nAre you bored of Coach Fred\u0027s selection of clubs and attempts to make you a boxer?\\nDo you long for a Katana, Punk Knife or even... a Hammer?\\n\\nThen come on down to the Northside Motel on Martin Street where our sales person has the melee weapon of your dreams!",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "tuc_watson_advert_shard_content"
             }
           ]
         }

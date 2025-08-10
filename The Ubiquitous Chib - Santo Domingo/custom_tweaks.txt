@@ -1,0 +1,2 @@
+Items.tuc_santodomingo_advert_shard
+Items.tuc_santodomingo_convo_shard

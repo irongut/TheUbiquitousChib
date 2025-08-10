@@ -1,3 +1,5 @@
+journal:
+  - theubiquitouschib_westbrook\journal\theubiquitouschib_westbrook_shards.journal
 localization:
   onscreens:
     en-us: theubiquitouschib_westbrook\localization\en_us.json

@@ -1,0 +1,2 @@
+Items.tuc_dogtown_advert_shard
+Items.tuc_dogtown_convo_shard
