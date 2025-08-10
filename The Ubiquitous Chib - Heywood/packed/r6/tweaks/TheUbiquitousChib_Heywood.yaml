@@ -69,7 +69,10 @@ Character.irongut_ubiquitouschib_heywood:
   vendorID: Vendors.vendorxl_custom
   forcedTBHZOffset: 5
 
-Items.irongut_ubiquitouschib_heywood_shard:
+Items.tuc_heywood_$(attribute)_shard:
+  $instances: &TUC_Heywood_ShardData
+    - { attribute: reviews }
+    - { attribute: advert        }
   $type: gamedataItem_Record
   animFeatureName: ItemData
   animName: ui_garment_pose
@@ -90,7 +93,7 @@ Items.irongut_ubiquitouschib_heywood_shard:
   isPart: False
   isSingleInstance: True
   itemCategory: ItemCategory.General
-  itemSecondaryAction: Items.irongut_ubiquitouschib_heywood_shard_secondary
+  itemSecondaryAction: Items.tuc_heywood_$(attribute)_shard_secondary
   itemType: ItemType.Gen_Readable
   localizedName: ""
   mass: 1
@@ -155,7 +158,8 @@ Items.irongut_ubiquitouschib_heywood_shard:
   statPools: []
   weakspots: []
 
-Items.irongut_ubiquitouschib_heywood_shard_secondary:
+Items.tuc_heywood_$(attribute)_shard_secondary:
+  $instances: *TUC_Heywood_ShardData
   $type: gamedataItemAction_Record
   isDefaultLootChoice: False
   removeAfterUse: True
@@ -174,4 +178,4 @@ Items.irongut_ubiquitouschib_heywood_shard_secondary:
   startEffects: []
   targetActivePrereqs: []
   targetPrereqs: []
-  journalEntry: onscreens/emails/generic/shards/world/irongut_ubiquitouschib_heywood_shard
+  journalEntry: onscreens/emails/generic/shards/world/tuc_heywood_$(attribute)_shard
