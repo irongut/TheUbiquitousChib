@@ -4,9 +4,9 @@ https://www.nexusmods.com/cyberpunk2077/mods/21175
 Category = Gameplay / Vendors
 Name = The Ubiquitous Chib - Westbrook
 Language = n/a
-Version = 1.1.0
+Version = 1.2.0
 Author = Irongut
-Overview = Adds a melee weapons and mods vendor to the corner of Grant & Lele in Westbrook with military cases, displayed weapons, a laptop and a radio.
+Overview = Adds a melee weapons and mods vendor to the corner of Grant & Lele in Westbrook with custom faction, displayed weapons, laptop, radio and two lore shards.
 Description = 
 Are you worried about the homeless camps encroaching on North Oak?
 Do the paparazzi break into your mansion but your manager won't let you carry a gun?
@@ -15,7 +15,9 @@ But you're intimidated by the booster gangs hanging around Spector Cheng's gym?
 
 Then come on down to the observation platform on the corner of Grant & Lele where our expert staff will help you find the melee weapon of your dreams! Our local contacts deliver new stock all the time so check back regularly! (1 hour refresh)
 
-Update: v1.1 adds military cases, displayed weapons, a laptop, a radio and a spotlight to make the area look more like a pop-up shop. Keep an eye open for other customers, you may see a familiar face!
+Update:
+	v1.2 adds a custom faction for the vendor with two lore shards - one at the shop and the other somewhere in Westbrook for you to find.
+	v1.1 adds military cases, displayed weapons, a laptop, a radio and a spotlight to make the area look more like a pop-up shop. Keep an eye open for other customers, you may see a familiar face!
 
 Customers visit for 1 hour from: [spoiler]02:00, 10:00, 16:00, 22:00[/spoiler]
 
@@ -27,6 +29,7 @@ The Ubiquitous Chib - Heywood
 The Ubiquitous Chib - Santo Domingo
 The Ubiquitous Chib - Black Market
 H10 Food Vendor
+Creepy Nuts FM
 
 Files
 
@@ -42,7 +45,7 @@ Both versions overwrite each other so you can swap between them as you progress 
 
 Performance & Compatibility
 
-The mod adds 19 meshes, 3 devices and an occasional NPC as well as the vendor. Since these are native edits the performance impact is minimal and it should be compatible with anything that doesn't change the same area.
+The mod adds 18 meshes, 3 devices, 2 entitites and an occasional NPC as well as the vendor. Since these are native edits the performance impact is minimal and it should be compatible with anything that doesn't change the same area.
 
 Requirements
 
@@ -57,12 +60,15 @@ How to Install
 
 Install all the requirements.
 Download EITHER the Upcoming Merc (level appropriate) OR the Legend of NC (all legendary) archive from the files section.
-Unpack the zip file into the "Cyberpunk 2077" folder so that the files "TheUbiquitousChib_Westbrook.archive" and "theubiquitouschib_westbrook.xl" end up in the "Cyberpunk 2077\archive\pc\mod" folder and the "TheUbiquitousChib_Westbrook.yaml" file ends up in the "Cyberpunk 2077\r6\tweaks" folder.
+Unpack the zip file into your "Cyberpunk 2077" folder so you end up with the files:
+- Cyberpunk 2077\archive\pc\mod\TheUbiquitousChib_Westbrook.archive
+- Cyberpunk 2077\archive\pc\mod\theubiquitouschib_westbrook.archive.xl
+- Cyberpunk 2077\archive\pc\mod\theubiquitouschib_westbrook.xl
+- Cyberpunk 2077\r6\tweaks\TheUbiquitousChib_Westbrook.yaml
 
 How to Uninstall
 
-From the "Cyberpunk 2077\archive\pc\mod" folder delete the files "TheUbiquitousChib_Westbrook.archive" and "theubiquitouschib_westbrook.xl".
-From the "Cyberpunk 2077\r6\tweaks" folder delete the file "TheUbiquitousChib_Westbrook.yaml".
+Delete the files listed above.
 
 Thanks
 
