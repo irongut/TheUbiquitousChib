@@ -4,9 +4,9 @@ https://www.nexusmods.com/cyberpunk2077/mods/21088
 Category = Vendors
 Name = The Ubiquitous Chib - Heywood
 Language = n/a
-Version = 1.1.0
+Version = 1.2.0
 Author = Irongut
-Overview = Adds a vendor to the alley behind The Time Machine in Heywood who sells all melee weapons and relevant mods with displayed weapons, a laptop and a radio.
+Overview = Adds a vendor to the alley behind The Time Machine in Heywood who sells all melee weapons and relevant mods with custom faction, displayed weapons, laptop, radio and two lore shards.
 Description = 
 Are you a Heywood salaryman shuffling between the office and your conapt in Wellsprings every day?
 Does your boss disrespect you because you don't have a ceremonial sword or Tanto?
@@ -15,7 +15,9 @@ Do you desire the fear and respect on the street that comes with a CHAINSWORD?
 
 Then come on down to The Ubiquitous Chib - Heywood, behind The Time Machine where our expert staff will help you find the melee weapon of your dreams! Our local contacts deliver new stock all the time so check back regularly! (1 hour refresh)
 
-Update: v1.1 adds military cases, displayed weapons, a laptop, a radio and a street light to make the area look more like a weapon shop. Keep an eye open for other customers, you may see a familiar face or two!
+Update:
+	v1.2 adds a custom faction for the vendor with two lore shards - one at the shop and the other somewhere in Heywood for you to find.
+	v1.1 adds military cases, displayed weapons, a laptop, a radio and a street light to make the area look more like a weapon shop. Keep an eye open for other customers, you may see a familiar face or two!
 
 Customers visit for 1 hour from: [spoiler]03:00, 07:00, 13:00, 19:00, 23:00[/spoiler]
 
@@ -29,6 +31,7 @@ The Ubiquitous Chib - Westbrook
 The Ubiquitous Chib - Santo Domingo
 The Ubiquitous Chib - Black Market
 H10 Food Vendor
+Creepy Nuts FM
 
 Files
 
@@ -44,7 +47,7 @@ Both versions overwrite each other so you can swap between them as you progress 
 
 Performance & Compatibility
 
-The mod adds 30 meshes, 3 devices, up to 2 NPCs and the vendor as well as removing 14 trash items. Since these are native edits the performance impact is minimal and it should be compatible with anything that doesn't change the same area.
+The mod adds 29 meshes, 3 devices, 2 entities, up to 2 NPCs and the vendor as well as removing 14 trash items. Since these are native edits the performance impact is minimal and it should be compatible with anything that doesn't change the same area.
 
 Requirements
 
@@ -59,12 +62,16 @@ How to Install
 
 Install all the requirements.
 Download EITHER the Upcoming Merc (level appropriate) OR the Legend of NC (all legendary) archive from the files section.
-Unpack the zip file into the "Cyberpunk 2077" folder so that the files "TheUbiquitousChib_Heywood.archive", "theubiquitouschib_heywood.xl" and "theubiquitouschib_heywood_rm.xl" end up in the "Cyberpunk 2077\archive\pc\mod" folder and the "TheUbiquitousChib_Heywood.yaml" file ends up in the "Cyberpunk 2077\r6\tweaks" folder.
+Unpack the zip file into your "Cyberpunk 2077" folder so you end up with the files:
+- Cyberpunk 2077\archive\pc\mod\TheUbiquitousChib_Heywood.archive
+- Cyberpunk 2077\archive\pc\mod\theubiquitouschib_heywood.archive.xl
+- Cyberpunk 2077\archive\pc\mod\theubiquitouschib_heywood.xl
+- Cyberpunk 2077\archive\pc\mod\theubiquitouschib_heywood_rm.xl
+- Cyberpunk 2077\r6\tweaks\TheUbiquitousChib_Heywood.yaml
 
 How to Uninstall
 
-From the "Cyberpunk 2077\archive\pc\mod" folder delete the files "TheUbiquitousChib_Heywood.archive", "theubiquitouschib_heywood.xl" and "theubiquitouschib_heywood_rm.xl".
-From the "Cyberpunk 2077\r6\tweaks" folder delete the file "TheUbiquitousChib_Heywood.yaml".
+Delete the files listed above.
 
 Thanks
 
