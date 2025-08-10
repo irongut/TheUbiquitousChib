@@ -3,7 +3,7 @@
     "WolvenKitVersion": "8.16.1",
     "WKitJsonVersion": "0.0.9",
     "GameVersion": 2200,
-    "ExportedDateTime": "2025-08-10T02:19:04.1141242Z",
+    "ExportedDateTime": "2025-08-10T03:26:43.6666818Z",
     "DataType": "CR2W",
     "ArchiveFileName": "D:\\Dev\\WolvenKit\\TheUbiquitousChib\\The Ubiquitous Chib - Heywood\\source\\archive\\theubiquitouschib_heywood\\localization\\en_us.json"
   },
@@ -48,7 +48,7 @@
             },
             {
               "$type": "localizationPersistenceOnScreenEntry",
-              "femaleVariant": "Are you a Heywood salaryman shuffling between the office and your conapt in Wellsprings every day?\\nDoes your boss disrespect you because you don\\u0027t have a ceremonial sword or Tanto?\\nAre you a major league mercenary late for a meeting at Embers but you forgot your Neurotoxin knife?\\nDo you desire the fear and respect on the street that comes with a CHAINSWORD?\\n\\nThen come on down to The Ubiquitous Chib - Heywood, behind The Time Machine where our expert staff will help you find the melee weapon of your dreams!",
+              "femaleVariant": "Are you a Heywood salaryman shuffling between the office and your conapt in Wellsprings every day?\\nDoes your boss disrespect you because you don\u0027t have a ceremonial sword or Tanto?\\nAre you a major league mercenary late for a meeting at Embers but you forgot your Neurotoxin knife?\\nDo you desire the fear and respect on the street that comes with a CHAINSWORD?\\n\\nThen come on down to The Ubiquitous Chib - Heywood, behind The Time Machine where our expert staff will help you find the melee weapon of your dreams!",
               "maleVariant": "",
               "primaryKey": "0",
               "secondaryKey": "tuc_heywood_advert_shard_content"
