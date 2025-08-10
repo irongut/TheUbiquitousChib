@@ -4,9 +4,9 @@ https://www.nexusmods.com/cyberpunk2077/mods/20913
 Category = Vendors
 Name = The Ubiquitous Chib - Dogtown
 Language = n/a
-Version = 1.1.0
+Version = 1.2.0
 Author = Irongut
-Overview = Adds a vendor to Longshore Stacks in Dogtown who sells all melee weapons, mods and performance enhancements with weapon display, a usable laptop and radio.
+Overview = Adds a vendor to Longshore Stacks in Dogtown who sells all melee weapons, mods and performance enhancements with custom faction, weapon display, usable laptop & radio and two lore shards.
 Description = 
 Are you down on your luck or on the run?
 Have you fallen off Skid Row and ended up in Dogtown?
@@ -15,7 +15,9 @@ And your favourite Tomahawk got stuck in a Scav skull this morning?
 
 Then come on down to the Sky Gym in Longshore Stacks where our staff will help you find the melee weapon of your dreams! Our stealth drones deliver new stock all the time so check back regularly! (1 hour refresh)
 
-Update: v1.1 adds military cases, displayed weapons, a usable laptop, a radio and a light to make the area look more like a pop-up shop. Keep an eye open for other customers, you may see a familiar face!
+Update:
+	v1.2 adds a custom faction for the vendor with two lore shards - one at the shop and the other somewhere in Dogtown for you to find.
+	v1.1 adds military cases, displayed weapons, a usable laptop, a radio and a light to make the area look more like a pop-up shop. Keep an eye open for other customers, you may see a familiar face!
 
 Customers visit for 1 hour from: [spoiler]01:00, 14:00, 20:00[/spoiler]
 
@@ -27,6 +29,7 @@ The Ubiquitous Chib - Westbrook
 The Ubiquitous Chib - Santo Domingo
 The Ubiquitous Chib - Black Market
 H10 Food Vendor
+Creepy Nuts FM
 
 Files
 
@@ -41,7 +44,7 @@ Both versions overwrite each other so you can swap between them as you progress 
 
 Performance & Compatibility
 
-The mod adds 15 meshes, 3 devices, an occasional NPC and the vendor as well as removing 5 items. Since these are native edits the performance impact is minimal and it should be compatible with anything that doesn't change the same area.
+The mod adds 15 meshes, 3 devices, 2 entities, an occasional NPC and the vendor as well as removing 5 items. Since these are native edits the performance impact is minimal and it should be compatible with anything that doesn't change the same area.
 
 Requirements
 
@@ -56,12 +59,16 @@ How to Install
 
 Install all the requirements.
 Download EITHER the Upcoming Merc (level appropriate) OR the Legend of NC (all legendary) archive from the files section.
-Unpack the zip file into the "Cyberpunk 2077" folder so that the files "TheUbiquitousChib_Dogtown.archive", "theubiquitouschib_dogtown.xl" and "theubiquitouschib_dogtown_rm.xl" end up in the "Cyberpunk 2077\archive\pc\mod" folder and the "TheUbiquitousChib_Dogtown.yaml" file ends up in the "Cyberpunk 2077\r6\tweaks" folder.
+Unpack the zip file into your "Cyberpunk 2077" folder so you end up with the files:
+- Cyberpunk 2077\archive\pc\mod\TheUbiquitousChib_Dogtown.archive
+- Cyberpunk 2077\archive\pc\mod\theubiquitouschib_dogtown.archive.xl
+- Cyberpunk 2077\archive\pc\mod\theubiquitouschib_dogtown.xl
+- Cyberpunk 2077\archive\pc\mod\theubiquitouschib_dogtown_rm.xl
+- Cyberpunk 2077\r6\tweaks\TheUbiquitousChib_Dogtown.yaml
 
 How to Uninstall
 
-From the "Cyberpunk 2077\archive\pc\mod" folder delete the files "TheUbiquitousChib_Dogtown.archive", "theubiquitouschib_dogtown.xl" and "theubiquitouschib_dogtown_rm.xl".
-From the "Cyberpunk 2077\r6\tweaks" folder delete the file "TheUbiquitousChib_Dogtown.yaml".
+Delete the files listed above.
 
 Thanks
 
