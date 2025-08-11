@@ -3,7 +3,7 @@
     "WolvenKitVersion": "8.16.1",
     "WKitJsonVersion": "0.0.9",
     "GameVersion": 2200,
-    "ExportedDateTime": "2025-08-09T20:38:11.0399692Z",
+    "ExportedDateTime": "2025-08-11T00:25:41.2762322Z",
     "DataType": "CR2W",
     "ArchiveFileName": "D:\\Dev\\WolvenKit\\TheUbiquitousChib\\The Ubiquitous Chib - North Badlands\\source\\archive\\theubiquitouschib_northbadlands\\localization\\en_us.json"
   },
@@ -48,7 +48,7 @@
             },
             {
               "$type": "localizationPersistenceOnScreenEntry",
-              "femaleVariant": "Is life in Night City too fast and noisy for you?\\nDo you prefer a quiet trailer in Red Peaks or Rocky Ridge Plains?\\nHave you found an abandoned container but don\u0027t have a Crowbar?\\nOr did your Javelina get a flat but you lost your Tire Iron in a Haboob?\\n\\nThen come on down to DaKota Garage off I-9 where our staff will help you find the melee weapon of your dreams!",
+              "femaleVariant": "Is life in Night City too fast and noisy for you?\\nDo you prefer a quiet trailer in Red Peaks or Rocky Ridge Plains?\\nHave you found an abandoned container but don\u0027t have a Crowbar?\\nOr did your Javelina get a flat but you lost your Tire Iron in a Haboob?\\n\\nThen come on down to DaKota Garage off I-9 where our expert staff will help you find the melee weapon of your dreams!\\n\\nEven if you\u0027re not in the market for a new weapon, help yourself to our free coffee and get Energized for the road ahead!",
               "maleVariant": "",
               "primaryKey": "0",
               "secondaryKey": "tuc_badlands_advert_shard_content"
