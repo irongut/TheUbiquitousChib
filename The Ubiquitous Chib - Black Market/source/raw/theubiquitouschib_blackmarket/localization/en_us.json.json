@@ -3,7 +3,7 @@
     "WolvenKitVersion": "8.16.1",
     "WKitJsonVersion": "0.0.9",
     "GameVersion": 2200,
-    "ExportedDateTime": "2025-08-05T19:30:04.9446340Z",
+    "ExportedDateTime": "2025-09-15T02:31:47.6705267Z",
     "DataType": "CR2W",
     "ArchiveFileName": "D:\\Dev\\WolvenKit\\TheUbiquitousChib\\The Ubiquitous Chib - Black Market\\source\\archive\\theubiquitouschib_blackmarket\\localization\\en_us.json"
   },
@@ -24,6 +24,34 @@
               "maleVariant": "",
               "primaryKey": "0",
               "secondaryKey": "irongut_tuc_faction_name"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "WNS Finance Interview: The Ubiquitous Chib",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "tuc_blackmarket_convo_shard_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Aoko Sasaki: The Ubiquitous Chib is one of Night City\u0027s hottest startups of 2077, I\u0027m talking with the CEO and founder. Why did you decide to open a chain of stores selling melee weapons?\\nIron: Like many innocent Night City citizens I was caught up in the recent Watson lockdown and was dismayed by the lack of options available for defending myself besides firearms. As a retired Edgerunner I still have some contacts in the business so I reached out to them and we opened the Watson store within 24 hours.\\n\\nAoko Sasaki: You\u0027ve grown rapidly, expanding across the city, to what do you attribute your success?\\nIron: Quality products and knowledgeable staff but most of all the people of Night City and their amazing thirst for new weapons! We recently added free refreshments at two of our sites to say thank-you to our customers for their patronage.\\n\\nAoko Sasaki: Is there any truth to the rumours that you are involved with the street gang known as The Mox?\\nIron: All new enterprises need seed capital and Susie Q recognised a good investment opportunity. They also helped with staffing and location scouting which enabled us to set up quickly. I worked with The Mox a few times and always found them honest and reliable, which is more than I could say for most megacorps, and there is nothing illegal about investing in a new company.\\n\\nAoko Sasaki, WNS Finance",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "tuc_blackmarket_convo_shard_content"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "The Ubiquitous Chib - Black Market",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "tuc_blackmarket_advert_shard_title"
+            },
+            {
+              "$type": "localizationPersistenceOnScreenEntry",
+              "femaleVariant": "Are you a collector of rare weapons of exquisite beauty and deadly grace?\\nOr a Legend of The Afterlife looking for the perfect steel to complement your style?\\nDo you crave the taste of Comrade Kolya\u0027s Premium Black Caviar with Devildick Pepper Chips?\\nOr long to open a can of AssKick on your enemies with a Gold-Plated Baseball bat?\\n\\nThen come on down to Lincoln Dock on Republic Way where our expert staff will help you find the melee weapon of your dreams!\\n\\nEnjoy our complimentary tea or coffee while you browse!",
+              "maleVariant": "",
+              "primaryKey": "0",
+              "secondaryKey": "tuc_blackmarket_advert_shard_content"
             }
           ]
         }
