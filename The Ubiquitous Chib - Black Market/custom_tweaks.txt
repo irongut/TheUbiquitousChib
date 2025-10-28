@@ -1,0 +1,2 @@
+Items.tuc_blackmarket_advert_shard
+Items.tuc_blackmarket_convo_shard

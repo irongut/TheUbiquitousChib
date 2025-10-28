@@ -1,3 +1,5 @@
+journal:
+  - theubiquitouschib_blackmarket\journal\theubiquitouschib_blackmarket_shards.journal
 localization:
   onscreens:
     en-us: theubiquitouschib_blackmarket\localization\en_us.json
