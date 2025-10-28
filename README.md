@@ -15,7 +15,11 @@ Releases are published on Nexus:
 
 - [ArchiveXL](https://www.nexusmods.com/cyberpunk2077/mods/4198)
 - [Codeware](https://www.nexusmods.com/cyberpunk2077/mods/7780)
+- [Cyber Engine Tweaks](https://www.nexusmods.com/cyberpunk2077/mods/107) *
+- [Native Interactions Framework](https://www.nexusmods.com/cyberpunk2077/mods/21422) *
 - [RED4ext](https://www.nexusmods.com/cyberpunk2077/mods/2380)
 - [redscript](https://www.nexusmods.com/cyberpunk2077/mods/1511)
 - [TweakXL](https://www.nexusmods.com/cyberpunk2077/mods/4197)
 - [VendorsXL](https://www.nexusmods.com/cyberpunk2077/mods/19679)
+
+* Required for Black Market & North Badlands from v2.0.0.
